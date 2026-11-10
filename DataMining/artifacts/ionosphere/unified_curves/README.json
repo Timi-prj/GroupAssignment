@@ -1,0 +1,8 @@
+{
+  "purpose": "Unify figure types for models shared across datasets; not formal model comparison metrics.",
+  "seed": 42,
+  "protocol": "80/20 stratified training subset, inner stratified 5-fold learning curve",
+  "J48": "Python DecisionTree approximation: min_samples_leaf=2, min_samples_split=4",
+  "Logistic": "Python visualization with C=1e8 to approximate Weka ridge=1e-8",
+  "source": "交付物\\Ionoshpere_dataprocess&J48\\ionosphere_preprocessed.arff"
+}

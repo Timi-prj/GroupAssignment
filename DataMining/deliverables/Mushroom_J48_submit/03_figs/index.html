@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>J48 on mushroom · 五方案单图对照</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#ffffff; --ink:#1d1d1f; --sub:#6b6b70;
+    --line:#e3e6ea; --blue:#2f6f9f;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; padding:32px 36px 72px; background:var(--bg); color:var(--ink);
+    font-family:"Microsoft YaHei","PingFang SC","Hiragino Sans GB",system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1{font-size:26px; margin:0 0 6px; letter-spacing:.3px}
+  .lead{color:var(--sub); font-size:14px; margin:0 0 22px; line-height:1.75}
+  h2{font-size:17px; margin:40px 0 14px; padding-left:11px;
+     border-left:4px solid var(--blue); line-height:1.2}
+  h2 small{font-weight:400; color:var(--sub); font-size:13px; margin-left:8px}
+  .grid{display:grid; gap:14px; grid-template-columns:repeat(5,1fr)}
+  figure{
+    margin:0; background:var(--card); border-radius:10px; overflow:hidden;
+    border:1px solid var(--line); box-shadow:0 1px 3px rgba(0,0,0,.04);
+    cursor:zoom-in; transition:box-shadow .15s, transform .15s;
+  }
+  figure:hover{box-shadow:0 4px 14px rgba(0,0,0,.10); transform:translateY(-2px)}
+  figure img{display:block; width:100%; height:auto; background:#fff}
+  figcaption{
+    padding:8px 10px 9px; font-size:11.5px; color:var(--sub);
+    border-top:1px solid var(--line); line-height:1.5;
+  }
+  figcaption b{color:var(--ink); font-weight:600; display:block; font-size:12px}
+  table{border-collapse:collapse; width:100%; margin:0 0 8px; font-size:13px}
+  th,td{padding:7px 10px; text-align:left; border-bottom:1px solid var(--line)}
+  th{background:#eef1f4; font-weight:600; color:#33404d}
+  td code{font-family:Consolas,Menlo,monospace; font-size:12px; color:#1b4b73}
+  #lightbox{
+    position:fixed; inset:0; background:rgba(14,20,26,.88); display:none;
+    align-items:center; justify-content:center; padding:28px; z-index:99;
+    cursor:zoom-out;
+  }
+  #lightbox.on{display:flex}
+  #lightbox img{max-width:96vw; max-height:92vh; box-shadow:0 10px 40px rgba(0,0,0,.5);
+                border-radius:6px; background:#fff}
+  .hint{color:var(--sub); font-size:12.5px; margin-top:10px}
+</style>
+</head>
+<body>
+
+<h1>J48 on mushroom · 五个方案的单图对照</h1>
+<p class="lead">
+  同一批 Weka 输出（10 折分层交叉验证，seed = 42，n = 8,124），拆成 5 个方案 × 4 种图 = 20 张单图。<br>
+  点任意一张可放大。命名规则：<code>J48-&lt;方案&gt;_mushroom_&lt;图型&gt;.png</code>，学习曲线统一为
+  <code>J48-&lt;方案&gt;_mushroom_curve.png</code>。
+</p>
+
+<table>
+  <tr><th>方案</th><th>tag</th><th>属性数</th><th>准确率</th><th>加权 F1</th><th>FN / FP</th><th>AUC</th></tr>
+  <tr><td>全属性</td><td><code>all22</code></td><td>21</td><td>100.0000 %</td><td>1.0000</td><td>0 / 0</td><td>1.000000</td></tr>
+  <tr><td>Top-8 (InfoGain)</td><td><code>top8</code></td><td>8</td><td>99.9015 %</td><td>0.9990</td><td>8 / 0</td><td>0.999855</td></tr>
+  <tr><td>Top-9 (InfoGain)</td><td><code>top9</code></td><td>9</td><td>100.0000 %</td><td>1.0000</td><td>0 / 0</td><td>1.000000</td></tr>
+  <tr><td>CFS</td><td><code>cfs</code></td><td>4</td><td>99.0153 %</td><td>0.9901</td><td>80 / 0</td><td>0.993049</td></tr>
+  <tr><td>Wrapper</td><td><code>wrapper</code></td><td>5</td><td>100.0000 %</td><td>1.0000</td><td>0 / 0</td><td>1.000000</td></tr>
+</table>
+<p class="hint">AUC 由折外预测概率重算（Weka 界面只给 3 位小数，分不开 Top-8 与满分方案）。</p>
+
+<h2>一、混淆矩阵 <small>confusion matrix · 每格下方的百分比是该行占比，即该真实类别的召回率</small></h2>
+<div class="grid" id="g-cm"></div>
+
+<h2>二、精确率 / 召回率 / F1 <small>precision / recall / F1 · 上三行为 p 类（毒蘑菇），下三行为 e 类</small></h2>
+<div class="grid" id="g-f1"></div>
+
+<h2>三、ROC 曲线与 AUC <small>ROC · AUC · 非满分方案带放大插图，看台阶在哪里断</small></h2>
+<div class="grid" id="g-roc"></div>
+
+<h2>四、学习曲线 <small>learning curve · 训练集占比 10 %–100 % 共 10 档，每档独立做一次 10 折 CV</small></h2>
+<div class="grid" id="g-curve"></div>
+
+<div id="lightbox"><img alt=""></div>
+
+<script>
+const SCHEMES = [
+  {tag:"all22",   name:"全属性",          attr:"21 个属性"},
+  {tag:"top8",    name:"Top-8",           attr:"InfoGain 前 8"},
+  {tag:"top9",    name:"Top-9",           attr:"InfoGain 前 9"},
+  {tag:"cfs",     name:"CFS",             attr:"4 个属性"},
+  {tag:"wrapper", name:"Wrapper",         attr:"5 个属性"}
+];
+const GROUPS = [
+  {id:"g-cm",    suffix:"confusion_matrix", note:"混淆矩阵"},
+  {id:"g-f1",    suffix:"f1_score",        note:"P / R / F1"},
+  {id:"g-roc",   suffix:"roc_auc",         note:"ROC"},
+  {id:"g-curve", suffix:"curve",           note:"学习曲线"}
+];
+for (const g of GROUPS) {
+  const box = document.getElementById(g.id);
+  for (const s of SCHEMES) {
+    const file = `J48-${s.tag}_mushroom_${g.suffix}.png`;
+    box.insertAdjacentHTML("beforeend", `
+      <figure>
+        <img src="${file}" alt="${file}" loading="lazy">
+        <figcaption><b>${s.name}</b>${s.attr} · ${g.note}</figcaption>
+      </figure>`);
+  }
+}
+const lb = document.getElementById("lightbox");
+const lbImg = lb.querySelector("img");
+document.addEventListener("click", e => {
+  const img = e.target.closest(".grid img");
+  if (img) { lbImg.src = img.src; lb.classList.add("on"); }
+  else if (e.target === lb || e.target === lbImg) { lb.classList.remove("on"); }
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") lb.classList.remove("on");
+});
+</script>
+</body>
+</html>

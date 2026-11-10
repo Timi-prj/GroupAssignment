@@ -1,0 +1,102 @@
+E:/Weka/Weka-3-8-7/jre/jre-25.0.2-full/bin/java.exe -Xss20m -Dfile.encoding=UTF-8 --add-opens=java.base/java.lang=ALL-UNNAMED --enable-native-access=ALL-UNNAMED -cp E:/Weka/Weka-3-8-7/weka.jar weka.classifiers.trees.J48 -c last -x 10 -t data/mushroom_raw.arff
+
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+odor = a: e (400.0)
+odor = c: p (192.0)
+odor = f: p (2160.0)
+odor = l: e (400.0)
+odor = m: p (36.0)
+odor = n
+|   spore-print-color = b: e (48.0)
+|   spore-print-color = h: e (48.0)
+|   spore-print-color = k: e (1296.0)
+|   spore-print-color = n: e (1344.0)
+|   spore-print-color = o: e (48.0)
+|   spore-print-color = r: p (72.0)
+|   spore-print-color = u: e (0.0)
+|   spore-print-color = w
+|   |   gill-size = b: e (528.0)
+|   |   gill-size = n
+|   |   |   gill-spacing = c: p (32.0)
+|   |   |   gill-spacing = d: e (0.0)
+|   |   |   gill-spacing = w
+|   |   |   |   population = a: e (0.0)
+|   |   |   |   population = c: p (16.0)
+|   |   |   |   population = n: e (0.0)
+|   |   |   |   population = s: e (0.0)
+|   |   |   |   population = v: e (48.0)
+|   |   |   |   population = y: e (0.0)
+|   spore-print-color = y: e (48.0)
+odor = p: p (256.0)
+odor = s: p (576.0)
+odor = y: p (576.0)
+
+Number of Leaves  : 	25
+
+Size of the tree : 	30
+
+
+Time taken to build model: 0.17 seconds
+
+Time taken to test model on training data: 0.03 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        8124              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances             8124     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     e
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     p
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 4208    0 |    a = e
+    0 3916 |    b = p
+
+Time taken to perform cross-validation: 0.18 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        8124              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances             8124     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     e
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     p
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 4208    0 |    a = e
+    0 3916 |    b = p
+

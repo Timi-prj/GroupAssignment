@@ -1,0 +1,91 @@
+{
+ "_protocol": {
+  "cv": "stratified 10-fold cross-validation, seed 42, n = 8124",
+  "holdout": "stratified 80/20 holdout, train 6499 / test 1625 (StratifiedRemoveFolds -N 5 -F 1 -S 42), evaluated once"
+ },
+ "J48-all22": {
+  "cv": {
+   "correct": 8124,
+   "acc": 100.0,
+   "wrong": 0,
+   "leaves": 25
+  },
+  "holdout": {
+   "correct": 1625,
+   "acc": 100.0,
+   "wrong": 0,
+   "leaves": 25
+  }
+ },
+ "J48-top8": {
+  "cv": {
+   "correct": 8116,
+   "acc": 99.9015,
+   "wrong": 8,
+   "leaves": 27
+  },
+  "holdout": {
+   "correct": 1623,
+   "acc": 99.8769,
+   "wrong": 2,
+   "leaves": 27
+  }
+ },
+ "J48-top9": {
+  "cv": {
+   "correct": 8124,
+   "acc": 100.0,
+   "wrong": 0,
+   "leaves": 28
+  },
+  "holdout": {
+   "correct": 1625,
+   "acc": 100.0,
+   "wrong": 0,
+   "leaves": 28
+  }
+ },
+ "J48-cfs": {
+  "cv": {
+   "correct": 8044,
+   "acc": 99.0153,
+   "wrong": 80,
+   "leaves": 17
+  },
+  "holdout": {
+   "correct": 1610,
+   "acc": 99.0769,
+   "wrong": 15,
+   "leaves": 17
+  }
+ },
+ "J48-wrapper": {
+  "cv": {
+   "correct": 8124,
+   "acc": 100.0,
+   "wrong": 0,
+   "leaves": 32
+  },
+  "holdout": {
+   "correct": 1625,
+   "acc": 100.0,
+   "wrong": 0,
+   "leaves": 30
+  }
+ },
+ "_mcnemar_vs_all22": {
+  "note": "paired exact test on the same instances; holdout n = 1625 cannot resolve an 8-error difference",
+  "cv": {
+   "top8": "8:0, p = 0.0078",
+   "cfs": "80:0, p < 0.0001",
+   "top9": "0:0, p = 1.0",
+   "wrapper": "0:0, p = 1.0"
+  },
+  "holdout": {
+   "top8": "2:0, p = 0.50",
+   "cfs": "15:0, p = 0.0001",
+   "top9": "0:0, p = 1.0",
+   "wrapper": "0:0, p = 1.0"
+  }
+ }
+}

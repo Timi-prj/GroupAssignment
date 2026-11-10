@@ -1,0 +1,63 @@
+{
+  "source_file": "mushroom_preprocessed.arff",
+  "source_sha256": "98f4da3ac006a9887885e11cc6fa91c6af068a0c141e744de8676c7abb388f31",
+  "instances": 8124,
+  "input_features": 21,
+  "feature_names": [
+    "cap-shape",
+    "cap-surface",
+    "cap-color",
+    "bruises?",
+    "odor",
+    "gill-attachment",
+    "gill-spacing",
+    "gill-size",
+    "gill-color",
+    "stalk-shape",
+    "stalk-root",
+    "stalk-surface-above-ring",
+    "stalk-surface-below-ring",
+    "stalk-color-above-ring",
+    "stalk-color-below-ring",
+    "veil-color",
+    "ring-number",
+    "ring-type",
+    "spore-print-color",
+    "population",
+    "habitat"
+  ],
+  "feature_types": {
+    "cap-shape": "nominal",
+    "cap-surface": "nominal",
+    "cap-color": "nominal",
+    "bruises?": "nominal",
+    "odor": "nominal",
+    "gill-attachment": "nominal",
+    "gill-spacing": "nominal",
+    "gill-size": "nominal",
+    "gill-color": "nominal",
+    "stalk-shape": "nominal",
+    "stalk-root": "nominal",
+    "stalk-surface-above-ring": "nominal",
+    "stalk-surface-below-ring": "nominal",
+    "stalk-color-above-ring": "nominal",
+    "stalk-color-below-ring": "nominal",
+    "veil-color": "nominal",
+    "ring-number": "nominal",
+    "ring-type": "nominal",
+    "spore-print-color": "nominal",
+    "population": "nominal",
+    "habitat": "nominal"
+  },
+  "class_counts": {
+    "e": 4208,
+    "p": 3916
+  },
+  "class_proportions": {
+    "e": 0.517971442639094,
+    "p": 0.48202855736090594
+  },
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "one_hot_input_dimensions": 115
+}
