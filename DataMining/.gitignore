@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.chart-data-*/
+.trash/
+.DS_Store
+Thumbs.db
