@@ -1,0 +1,8 @@
+{
+  "instances": 8124,
+  "min_support": 0.2,
+  "min_confidence": 0.8,
+  "max_itemset_length": 3,
+  "frequent_itemsets": 1568,
+  "class_rules": 104
+}

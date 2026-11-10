@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "python": "3.14.6",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "pandas": "3.0.3",
+  "numpy": "2.4.6",
+  "scipy": "1.18.0",
+  "scikit_learn": "1.9.0",
+  "source_sha256": "98f4da3ac006a9887885e11cc6fa91c6af068a0c141e744de8676c7abb388f31",
+  "elapsed_seconds": 194.91040210000938
+}

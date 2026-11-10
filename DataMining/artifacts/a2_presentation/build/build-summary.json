@@ -1,0 +1,23 @@
+{
+  "finalPath": "C:\\Users\\Beixc\\Desktop\\Homework\\data_mining\\Group Assignment1\\交付物\\A2_PPT\\A2_Mushroom_模型与横向对比.pptx",
+  "slides": 6,
+  "nativeTables": [
+    1,
+    4,
+    5
+  ],
+  "nativeCharts": [
+    2,
+    3
+  ],
+  "sourceCsvs": [
+    "artifacts/a2_mushroom/logistic_regression/logistic_regression_mushroom_f1_learning_curve.csv",
+    "artifacts/a2_mushroom/knn/knn_mushroom_f1_learning_curve.csv"
+  ],
+  "sourceReports": [
+    "docs/a2_presentation.md",
+    "docs/mushroom_model_comparison.md",
+    "docs/mushroom_report.md",
+    "docs/apriori_analysis.md"
+  ]
+}

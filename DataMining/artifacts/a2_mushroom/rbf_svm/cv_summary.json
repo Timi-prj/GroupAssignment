@@ -1,0 +1,26 @@
+{
+  "model": "rbf_svm",
+  "protocol": "stratified outer 10-fold with inner 5-fold tuning",
+  "metrics": {
+    "accuracy": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "precision": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "recall": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "f1": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "roc_auc": {
+      "mean": 1.0,
+      "std": 0.0
+    }
+  }
+}

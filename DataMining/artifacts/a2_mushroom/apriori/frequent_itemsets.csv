@@ -1,0 +1,1569 @@
+itemset,length,support
+veil-color=w,1,0.9753815854258986
+gill-attachment=f,1,0.9741506646971935
+ring-number=o,1,0.9217134416543574
+gill-spacing=c,1,0.8385032003938946
+stalk-root=b,1,0.7700640078778926
+gill-size=b,1,0.690792712949286
+stalk-surface-above-ring=s,1,0.637124569177745
+stalk-surface-below-ring=s,1,0.6075824716888233
+bruises?=f,1,0.5844411619891678
+stalk-shape=t,1,0.5672082717872969
+stalk-color-above-ring=w,1,0.5494830132939439
+stalk-color-below-ring=w,1,0.5396356474643033
+class=e,1,0.517971442639094
+population=v,1,0.49729197439684886
+ring-type=p,1,0.48842934515017233
+class=p,1,0.48202855736090594
+cap-shape=x,1,0.4500246184145741
+odor=n,1,0.4342688330871492
+stalk-shape=e,1,0.4327917282127031
+bruises?=t,1,0.4155588380108321
+cap-surface=y,1,0.3993106843919252
+cap-shape=f,1,0.3879862136878385
+habitat=d,1,0.38749384539635645
+ring-type=e,1,0.3417035942885278
+cap-surface=s,1,0.31462333825701627
+gill-size=n,1,0.30920728705071393
+spore-print-color=w,1,0.29394387001477107
+stalk-surface-above-ring=k,1,0.2919743968488429
+cap-surface=f,1,0.28557360905957657
+stalk-surface-below-ring=k,1,0.28360413589364847
+cap-color=n,1,0.2811422944362383
+odor=f,1,0.2658788774002954
+habitat=g,1,0.26440177252584934
+spore-print-color=n,1,0.24224519940915806
+spore-print-color=k,1,0.23042836041358936
+stalk-color-below-ring=p,1,0.23042836041358936
+stalk-color-above-ring=p,1,0.23042836041358936
+cap-color=g,1,0.22648941408173315
+gill-color=b,1,0.21270310192023634
+population=y,1,0.21073362875430823
+spore-print-color=h,1,0.20088626292466766
+gill-attachment=f & veil-color=w,2,0.9731659281142294
+gill-attachment=f & ring-number=o,2,0.8980797636632201
+ring-number=o & veil-color=w,2,0.897095027080256
+gill-spacing=c & veil-color=w,2,0.8148695224027572
+gill-attachment=f & gill-spacing=c,2,0.8126538650910882
+gill-spacing=c & ring-number=o,2,0.7956671590349581
+stalk-root=b & veil-color=w,2,0.7464303298867553
+gill-attachment=f & stalk-root=b,2,0.7464303298867553
+gill-spacing=c & stalk-root=b,2,0.7040866568193008
+ring-number=o & stalk-root=b,2,0.6962087641555884
+gill-size=b & veil-color=w,2,0.6671590349581487
+gill-attachment=f & gill-size=b,2,0.6649433776464796
+stalk-surface-above-ring=s & veil-color=w,2,0.6134908911866076
+gill-attachment=f & stalk-surface-above-ring=s,2,0.6134908911866076
+gill-size=b & ring-number=o,2,0.6125061546036435
+gill-attachment=f & stalk-surface-below-ring=s,2,0.5839487936976858
+stalk-surface-below-ring=s & veil-color=w,2,0.5839487936976858
+ring-number=o & stalk-surface-above-ring=s,2,0.5829640571147218
+stalk-shape=t & veil-color=w,2,0.5672082717872969
+ring-number=o & stalk-shape=t,2,0.5672082717872969
+gill-attachment=f & stalk-shape=t,2,0.5672082717872969
+gill-size=b & gill-spacing=c,2,0.5608074839980305
+bruises?=f & veil-color=w,2,0.5598227474150664
+bruises?=f & gill-attachment=f,2,0.5585918266863614
+ring-number=o & stalk-surface-below-ring=s,2,0.5534219596258001
+stalk-color-above-ring=w & veil-color=w,2,0.5494830132939439
+gill-attachment=f & stalk-color-above-ring=w,2,0.5494830132939439
+gill-spacing=c & stalk-surface-above-ring=s,2,0.5445593303791236
+bruises?=f & ring-number=o,2,0.5425898572131955
+stalk-color-below-ring=w & veil-color=w,2,0.5396356474643033
+gill-attachment=f & stalk-color-below-ring=w,2,0.5396356474643033
+gill-spacing=c & stalk-surface-below-ring=s,2,0.5150172328902018
+stalk-surface-above-ring=s & stalk-surface-below-ring=s,2,0.5115706548498277
+gill-size=b & stalk-root=b,2,0.5051698670605613
+class=e & gill-attachment=f,2,0.49433776464795665
+class=e & veil-color=w,2,0.49433776464795665
+ring-number=o & stalk-color-above-ring=w,2,0.4894140817331364
+population=v & ring-number=o,2,0.48645987198424423
+population=v & veil-color=w,2,0.4854751354012802
+gill-attachment=f & population=v,2,0.4854751354012802
+class=e & gill-size=b,2,0.48252092565238797
+class=p & veil-color=w,2,0.4810438207779419
+class=p & gill-attachment=f,2,0.4798129000492368
+ring-number=o & stalk-color-below-ring=w,2,0.4795667159034958
+population=v & stalk-root=b,2,0.4756277695716396
+gill-spacing=c & population=v,2,0.4736582964057115
+stalk-root=b & stalk-shape=t,2,0.4726735598227474
+bruises?=f & stalk-root=b,2,0.4726735598227474
+class=p & ring-number=o,2,0.4687346134908912
+class=p & gill-spacing=c,2,0.46824224519940916
+ring-type=p & veil-color=w,2,0.464795667159035
+gill-attachment=f & ring-type=p,2,0.464795667159035
+gill-spacing=c & stalk-shape=t,2,0.4608567208271787
+stalk-root=b & stalk-surface-above-ring=s,2,0.45987198424421466
+stalk-root=b & stalk-surface-below-ring=s,2,0.45396356474643035
+class=e & ring-number=o,2,0.4529788281634663
+ring-type=p & stalk-surface-above-ring=s,2,0.45100935499753814
+class=e & stalk-surface-above-ring=s,2,0.448055145248646
+class=p & stalk-root=b,2,0.4451009354997538
+cap-shape=x & veil-color=w,2,0.4441161989167898
+cap-shape=x & gill-attachment=f,2,0.44337764647956673
+gill-size=b & stalk-surface-above-ring=s,2,0.44214672575086167
+ring-number=o & ring-type=p,2,0.4382077794190054
+bruises?=f & gill-spacing=c,2,0.4357459379615953
+stalk-color-above-ring=w & stalk-color-below-ring=w,2,0.43328409650418515
+gill-spacing=c & ring-type=p,2,0.42836041358936483
+ring-type=p & stalk-surface-below-ring=s,2,0.4273756770064008
+cap-shape=x & ring-number=o,2,0.4263909404234367
+class=e & odor=n,2,0.4194977843426883
+gill-size=b & stalk-surface-below-ring=s,2,0.41851304775972425
+class=e & stalk-surface-below-ring=s,2,0.41851304775972425
+bruises?=t & gill-attachment=f,2,0.4155588380108321
+bruises?=t & veil-color=w,2,0.4155588380108321
+gill-attachment=f & odor=n,2,0.41063515509601184
+odor=n & veil-color=w,2,0.4096504185130478
+gill-size=b & ring-type=p,2,0.4086656819300837
+stalk-shape=e & veil-color=w,2,0.40817331363860165
+gill-attachment=f & stalk-shape=e,2,0.4069423929098966
+stalk-color-above-ring=w & stalk-surface-above-ring=s,2,0.4066962087641556
+bruises?=f & class=p,2,0.4052191038897095
+gill-size=b & odor=n,2,0.40472673559822747
+stalk-color-below-ring=w & stalk-surface-above-ring=s,2,0.4037419990152634
+bruises?=t & gill-spacing=c,2,0.40275726243229937
+cap-surface=y & veil-color=w,2,0.3983259478089611
+bruises?=t & stalk-surface-above-ring=s,2,0.39783357951747905
+cap-surface=y & gill-attachment=f,2,0.397095027080256
+stalk-shape=t & stalk-surface-above-ring=s,2,0.39586410635155095
+stalk-shape=t & stalk-surface-below-ring=s,2,0.39586410635155095
+cap-surface=y & gill-spacing=c,2,0.3948793697685869
+bruises?=t & ring-type=p,2,0.39192516001969474
+gill-spacing=c & stalk-color-above-ring=w,2,0.3889709502708026
+class=e & ring-type=p,2,0.3879862136878385
+habitat=d & veil-color=w,2,0.38749384539635645
+gill-attachment=f & habitat=d,2,0.38527818808468733
+gill-spacing=c & stalk-color-below-ring=w,2,0.3850320039389463
+habitat=d & stalk-root=b,2,0.3830625307730182
+habitat=d & ring-number=o,2,0.38207779419005417
+cap-shape=f & veil-color=w,2,0.38183161004431315
+cap-shape=f & gill-attachment=f,2,0.3813392417528311
+bruises?=t & ring-number=o,2,0.379123584441162
+gill-spacing=c & stalk-shape=e,2,0.3776464795667159
+stalk-color-above-ring=w & stalk-surface-below-ring=s,2,0.37715411127523385
+cap-surface=y & ring-number=o,2,0.37567700640078777
+stalk-color-below-ring=w & stalk-surface-below-ring=s,2,0.3741999015263417
+bruises?=t & stalk-surface-below-ring=s,2,0.3741999015263417
+cap-shape=f & ring-number=o,2,0.37173806006893156
+cap-shape=x & gill-spacing=c,2,0.37124569177744954
+bruises?=t & gill-size=b,2,0.37124569177744954
+class=e & gill-spacing=c,2,0.3702609551944855
+gill-spacing=c & habitat=d,2,0.3638601674052191
+odor=n & ring-number=o,2,0.3604135893648449
+odor=n & stalk-surface-above-ring=s,2,0.35942885278188086
+ring-type=p & stalk-root=b,2,0.3584441161989168
+ring-number=o & stalk-shape=e,2,0.35450516986706054
+odor=n & stalk-surface-below-ring=s,2,0.3535204332840965
+class=p & population=v,2,0.35056622353520434
+population=v & stalk-shape=t,2,0.34859675036927623
+gill-size=b & stalk-shape=e,2,0.3481043820777942
+gill-size=b & stalk-color-below-ring=w,2,0.3476120137863122
+gill-size=b & stalk-color-above-ring=w,2,0.3476120137863122
+gill-size=b & stalk-shape=t,2,0.34268833087149186
+gill-attachment=f & ring-type=e,2,0.3417035942885278
+ring-type=e & veil-color=w,2,0.34071885770556376
+class=e & stalk-color-above-ring=w,2,0.33874938453963566
+bruises?=t & class=e,2,0.33874938453963566
+cap-shape=x & stalk-root=b,2,0.33825701624815363
+bruises?=f & population=v,2,0.3348104382077794
+class=e & stalk-color-below-ring=w,2,0.3328409650418513
+cap-shape=f & gill-spacing=c,2,0.33234859675036926
+odor=n & stalk-root=b,2,0.326932545544067
+class=e & stalk-root=b,2,0.3249630723781389
+stalk-color-above-ring=w & stalk-root=b,2,0.3249630723781389
+cap-shape=x & gill-size=b,2,0.32397833579517477
+cap-surface=y & stalk-root=b,2,0.3229935992122107
+ring-type=p & stalk-color-above-ring=w,2,0.3210241260462826
+ring-type=p & stalk-color-below-ring=w,2,0.3210241260462826
+bruises?=f & gill-size=b,2,0.31954702117183653
+stalk-color-above-ring=w & stalk-shape=t,2,0.3190546528803545
+stalk-color-below-ring=w & stalk-shape=t,2,0.3190546528803545
+class=e & stalk-shape=t,2,0.3190546528803545
+ring-number=o & ring-type=e,2,0.31806991629739045
+bruises?=f & ring-type=e,2,0.31806991629739045
+stalk-color-below-ring=w & stalk-root=b,2,0.3151157065484983
+gill-size=n & ring-number=o,2,0.30920728705071393
+gill-attachment=f & gill-size=n,2,0.30920728705071393
+gill-size=n & veil-color=w,2,0.3082225504677499
+cap-shape=f & stalk-root=b,2,0.30748399803052684
+ring-type=e & stalk-shape=t,2,0.3072378138847858
+bruises?=f & stalk-shape=t,2,0.3072378138847858
+odor=n & stalk-shape=t,2,0.3072378138847858
+odor=n & ring-type=p,2,0.29935992122107336
+bruises?=t & stalk-root=b,2,0.29739044805514525
+stalk-root=b & stalk-shape=e,2,0.29739044805514525
+gill-spacing=c & odor=n,2,0.2964057114721812
+population=v & stalk-surface-above-ring=s,2,0.29542097488921715
+habitat=d & stalk-shape=t,2,0.29542097488921715
+spore-print-color=w & veil-color=w,2,0.292959133431807
+cap-shape=x & stalk-surface-above-ring=s,2,0.29246676514032494
+population=v & stalk-surface-below-ring=s,2,0.29246676514032494
+stalk-surface-above-ring=k & veil-color=w,2,0.2919743968488429
+bruises?=f & stalk-surface-above-ring=k,2,0.2919743968488429
+gill-attachment=f & spore-print-color=w,2,0.2917282127031019
+cap-surface=s & veil-color=w,2,0.29098966026587886
+cap-surface=s & gill-attachment=f,2,0.29098966026587886
+gill-attachment=f & stalk-surface-above-ring=k,2,0.2897587395371738
+habitat=d & stalk-surface-above-ring=s,2,0.2895125553914328
+spore-print-color=w & stalk-root=b,2,0.28852781880846873
+bruises?=f & stalk-color-above-ring=w,2,0.2875430822255047
+stalk-root=b & stalk-surface-above-ring=k,2,0.2875430822255047
+cap-surface=f & veil-color=w,2,0.28557360905957657
+cap-surface=f & gill-attachment=f,2,0.28557360905957657
+cap-shape=f & gill-size=b,2,0.28508124076809455
+habitat=d & stalk-surface-below-ring=s,2,0.28360413589364847
+gill-attachment=f & stalk-surface-below-ring=k,2,0.28360413589364847
+stalk-root=b & stalk-surface-below-ring=k,2,0.28360413589364847
+bruises?=f & stalk-surface-below-ring=k,2,0.28360413589364847
+stalk-surface-below-ring=k & veil-color=w,2,0.28360413589364847
+cap-surface=s & ring-number=o,2,0.2776957163958641
+gill-size=n & gill-spacing=c,2,0.2776957163958641
+cap-shape=x & stalk-surface-below-ring=s,2,0.2776957163958641
+bruises?=f & stalk-color-below-ring=w,2,0.2776957163958641
+bruises?=f & stalk-shape=e,2,0.2772033481043821
+gill-spacing=c & stalk-surface-above-ring=k,2,0.2742491383554899
+class=p & stalk-surface-above-ring=k,2,0.2742491383554899
+class=p & gill-size=n,2,0.2737567700640079
+gill-size=b & habitat=d,2,0.27129492860659776
+cap-color=n & ring-number=o,2,0.2708025603151157
+gill-size=n & population=v,2,0.2708025603151157
+ring-number=o & stalk-surface-above-ring=k,2,0.26981782373215163
+cap-surface=f & ring-number=o,2,0.2678483505662235
+gill-spacing=c & odor=f,2,0.2658788774002954
+class=p & odor=f,2,0.2658788774002954
+odor=f & veil-color=w,2,0.2658788774002954
+odor=f & stalk-root=b,2,0.2658788774002954
+gill-attachment=f & odor=f,2,0.2658788774002954
+class=p & stalk-surface-below-ring=k,2,0.2658788774002954
+gill-spacing=c & stalk-surface-below-ring=k,2,0.2658788774002954
+odor=f & ring-number=o,2,0.2658788774002954
+ring-number=o & stalk-surface-below-ring=k,2,0.2658788774002954
+bruises?=f & spore-print-color=w,2,0.2653865091088134
+cap-surface=y & gill-size=b,2,0.26489414081733137
+bruises?=f & gill-size=n,2,0.26489414081733137
+gill-size=n & stalk-root=b,2,0.26489414081733137
+habitat=g & veil-color=w,2,0.26440177252584934
+gill-attachment=f & habitat=g,2,0.26440177252584934
+bruises?=t & stalk-color-above-ring=w,2,0.2619399310684392
+bruises?=t & stalk-color-below-ring=w,2,0.2619399310684392
+ring-type=p & stalk-shape=t,2,0.25997045790251105
+bruises?=t & stalk-shape=t,2,0.25997045790251105
+cap-color=n & veil-color=w,2,0.2575086164451009
+cap-color=n & gill-attachment=f,2,0.2567700640078779
+cap-surface=y & stalk-surface-above-ring=s,2,0.25652387986213687
+odor=n & stalk-color-above-ring=w,2,0.25406203840472674
+cap-shape=x & stalk-color-above-ring=w,2,0.25209256523879864
+bruises?=f & cap-shape=x,2,0.2511078286558346
+cap-surface=f & gill-size=b,2,0.2511078286558346
+gill-spacing=c & spore-print-color=w,2,0.25061546036435256
+bruises?=t & odor=n,2,0.25012309207287053
+cap-shape=x & stalk-color-below-ring=w,2,0.24913835548990645
+habitat=d & ring-type=p,2,0.24913835548990645
+gill-size=b & habitat=g,2,0.24864598719842443
+cap-shape=x & stalk-shape=t,2,0.2481536189069424
+cap-shape=f & stalk-shape=t,2,0.2481536189069424
+class=p & stalk-shape=t,2,0.2481536189069424
+ring-type=e & spore-print-color=w,2,0.24716888232397832
+cap-color=n & gill-spacing=c,2,0.2466765140324963
+ring-type=e & stalk-root=b,2,0.24618414574101427
+odor=n & stalk-color-below-ring=w,2,0.24421467257508617
+ring-number=o & spore-print-color=n,2,0.24224519940915806
+stalk-shape=e & stalk-surface-above-ring=s,2,0.24126046282619398
+gill-spacing=c & ring-type=e,2,0.24027572624322993
+cap-shape=x & class=e,2,0.2397833579517479
+bruises?=f & stalk-surface-above-ring=s,2,0.23929098966026588
+cap-surface=s & gill-spacing=c,2,0.2378138847858198
+cap-shape=x & ring-type=p,2,0.23682914820285575
+spore-print-color=n & veil-color=w,2,0.2363367799113737
+gill-attachment=f & spore-print-color=n,2,0.2363367799113737
+cap-shape=f & stalk-surface-above-ring=s,2,0.23609059576563268
+habitat=d & population=v,2,0.2343673067454456
+class=p & stalk-shape=e,2,0.23387493845396357
+bruises?=f & stalk-surface-below-ring=s,2,0.23338257016248154
+class=e & habitat=d,2,0.23141309699655344
+cap-surface=s & stalk-color-above-ring=w,2,0.23092072870507138
+cap-surface=s & stalk-color-below-ring=w,2,0.23092072870507138
+ring-number=o & spore-print-color=k,2,0.23042836041358936
+gill-attachment=f & spore-print-color=k,2,0.23042836041358936
+stalk-color-above-ring=w & stalk-shape=e,2,0.23042836041358936
+spore-print-color=k & veil-color=w,2,0.23042836041358936
+gill-spacing=c & stalk-color-below-ring=p,2,0.23042836041358936
+ring-number=o & stalk-color-below-ring=p,2,0.23042836041358936
+gill-attachment=f & stalk-color-below-ring=p,2,0.23042836041358936
+stalk-color-below-ring=p & veil-color=w,2,0.23042836041358936
+stalk-color-below-ring=p & stalk-root=b,2,0.23042836041358936
+ring-number=o & stalk-color-above-ring=p,2,0.23042836041358936
+gill-attachment=f & stalk-color-above-ring=p,2,0.23042836041358936
+stalk-color-above-ring=p & veil-color=w,2,0.23042836041358936
+gill-spacing=c & stalk-color-above-ring=p,2,0.23042836041358936
+stalk-color-above-ring=p & stalk-root=b,2,0.23042836041358936
+bruises?=f & odor=f,2,0.23042836041358936
+ring-type=p & stalk-shape=e,2,0.22845888724766125
+population=v & stalk-color-above-ring=w,2,0.22845888724766125
+cap-surface=y & stalk-surface-below-ring=s,2,0.22698178237321517
+cap-color=g & gill-attachment=f,2,0.22648941408173315
+cap-color=g & veil-color=w,2,0.22648941408173315
+cap-surface=f & stalk-root=b,2,0.22648941408173315
+gill-size=b & population=v,2,0.22648941408173315
+habitat=g & ring-number=o,2,0.22451994091580502
+gill-size=n & stalk-shape=t,2,0.22451994091580502
+bruises?=t & habitat=d,2,0.22451994091580502
+population=v & spore-print-color=w,2,0.22451994091580502
+ring-number=o & spore-print-color=w,2,0.22451994091580502
+gill-size=n & spore-print-color=w,2,0.22451994091580502
+habitat=d & odor=n,2,0.22353520433284096
+gill-size=n & ring-type=e,2,0.22353520433284096
+class=p & spore-print-color=w,2,0.22304283604135894
+ring-type=e & stalk-color-above-ring=w,2,0.2225504677498769
+population=v & ring-type=e,2,0.2225504677498769
+stalk-surface-above-ring=k & stalk-surface-below-ring=k,2,0.22156573116691286
+cap-shape=f & stalk-surface-below-ring=s,2,0.22131954702117185
+stalk-color-below-ring=w & stalk-shape=e,2,0.22058099458394878
+cap-surface=y & population=v,2,0.22058099458394878
+cap-surface=s & stalk-root=b,2,0.22008862629246675
+spore-print-color=n & stalk-surface-above-ring=s,2,0.21861152141802068
+population=v & stalk-color-below-ring=w,2,0.21861152141802068
+class=p & ring-type=e,2,0.21762678483505662
+bruises?=f & cap-shape=f,2,0.21590349581486953
+class=e & spore-print-color=n,2,0.21467257508616444
+cap-color=n & stalk-root=b,2,0.21467257508616444
+cap-surface=y & class=p,2,0.21418020679468242
+ring-type=e & stalk-color-below-ring=w,2,0.21270310192023634
+cap-color=g & gill-size=b,2,0.21270310192023634
+cap-surface=y & stalk-shape=t,2,0.21270310192023634
+gill-color=b & spore-print-color=w,2,0.21270310192023634
+gill-color=b & ring-number=o,2,0.21270310192023634
+gill-color=b & gill-size=n,2,0.21270310192023634
+gill-attachment=f & gill-color=b,2,0.21270310192023634
+bruises?=f & gill-color=b,2,0.21270310192023634
+gill-color=b & gill-spacing=c,2,0.21270310192023634
+gill-color=b & population=v,2,0.21270310192023634
+gill-color=b & stalk-root=b,2,0.21270310192023634
+gill-color=b & stalk-shape=t,2,0.21270310192023634
+class=p & gill-color=b,2,0.21270310192023634
+gill-color=b & veil-color=w,2,0.21270310192023634
+gill-color=b & ring-type=e,2,0.21270310192023634
+spore-print-color=w & stalk-shape=t,2,0.21270310192023634
+stalk-shape=e & stalk-surface-below-ring=s,2,0.21171836533727229
+habitat=g & stalk-color-below-ring=w,2,0.21122599704579026
+habitat=g & stalk-color-above-ring=w,2,0.21122599704579026
+class=p & stalk-color-above-ring=w,2,0.21073362875430823
+gill-spacing=c & population=y,2,0.21073362875430823
+gill-attachment=f & population=y,2,0.21073362875430823
+population=y & veil-color=w,2,0.21073362875430823
+cap-shape=x & class=p,2,0.2102412604628262
+cap-surface=s & stalk-surface-below-ring=s,2,0.2102412604628262
+cap-surface=s & stalk-surface-above-ring=s,2,0.2102412604628262
+cap-shape=x & population=v,2,0.2087641555883801
+cap-color=n & stalk-shape=t,2,0.2087641555883801
+class=p & gill-size=b,2,0.20827178729689808
+bruises?=f & cap-surface=s,2,0.20777941900541605
+cap-color=g & ring-number=o,2,0.20777941900541605
+class=p & stalk-color-below-ring=w,2,0.206794682422452
+spore-print-color=k & stalk-surface-above-ring=s,2,0.206794682422452
+spore-print-color=n & stalk-surface-below-ring=s,2,0.206794682422452
+population=y & ring-number=o,2,0.206794682422452
+cap-surface=f & gill-spacing=c,2,0.20580994583948795
+cap-color=n & stalk-surface-above-ring=s,2,0.20531757754800592
+bruises?=f & cap-surface=y,2,0.2033481043820778
+gill-size=b & spore-print-color=n,2,0.20285573609059576
+class=e & spore-print-color=k,2,0.20285573609059576
+gill-size=n & stalk-color-above-ring=w,2,0.2018709995076317
+cap-shape=x & stalk-shape=e,2,0.2018709995076317
+gill-size=b & population=y,2,0.2018709995076317
+cap-shape=f & population=v,2,0.20137863121614968
+gill-attachment=f & spore-print-color=h,2,0.20088626292466766
+spore-print-color=h & veil-color=w,2,0.20088626292466766
+ring-number=o & spore-print-color=h,2,0.20088626292466766
+gill-spacing=c & spore-print-color=h,2,0.20088626292466766
+spore-print-color=h & stalk-root=b,2,0.20088626292466766
+gill-attachment=f & ring-number=o & veil-color=w,3,0.897095027080256
+gill-attachment=f & gill-spacing=c & veil-color=w,3,0.8126538650910882
+gill-spacing=c & ring-number=o & veil-color=w,3,0.7720334810438207
+gill-attachment=f & gill-spacing=c & ring-number=o,3,0.7720334810438207
+gill-attachment=f & stalk-root=b & veil-color=w,3,0.7464303298867553
+gill-spacing=c & stalk-root=b & veil-color=w,3,0.6804529788281635
+gill-attachment=f & gill-spacing=c & stalk-root=b,3,0.6804529788281635
+gill-attachment=f & ring-number=o & stalk-root=b,3,0.672575086164451
+ring-number=o & stalk-root=b & veil-color=w,3,0.672575086164451
+gill-spacing=c & ring-number=o & stalk-root=b,3,0.6656819300837026
+gill-attachment=f & gill-size=b & veil-color=w,3,0.6649433776464796
+gill-attachment=f & stalk-surface-above-ring=s & veil-color=w,3,0.6134908911866076
+gill-attachment=f & gill-size=b & ring-number=o,3,0.5888724766125062
+gill-size=b & ring-number=o & veil-color=w,3,0.5888724766125062
+gill-attachment=f & stalk-surface-below-ring=s & veil-color=w,3,0.5839487936976858
+gill-attachment=f & stalk-shape=t & veil-color=w,3,0.5672082717872969
+gill-attachment=f & ring-number=o & stalk-shape=t,3,0.5672082717872969
+ring-number=o & stalk-shape=t & veil-color=w,3,0.5672082717872969
+gill-attachment=f & ring-number=o & stalk-surface-above-ring=s,3,0.5593303791235844
+ring-number=o & stalk-surface-above-ring=s & veil-color=w,3,0.5593303791235844
+bruises?=f & gill-attachment=f & veil-color=w,3,0.5576070901033974
+gill-attachment=f & stalk-color-above-ring=w & veil-color=w,3,0.5494830132939439
+gill-attachment=f & stalk-color-below-ring=w & veil-color=w,3,0.5396356474643033
+gill-size=b & gill-spacing=c & veil-color=w,3,0.5371738060068931
+gill-attachment=f & gill-size=b & gill-spacing=c,3,0.5349581486952241
+gill-attachment=f & ring-number=o & stalk-surface-below-ring=s,3,0.5297882816346627
+ring-number=o & stalk-surface-below-ring=s & veil-color=w,3,0.5297882816346627
+gill-spacing=c & stalk-surface-above-ring=s & veil-color=w,3,0.5209256523879862
+gill-attachment=f & gill-spacing=c & stalk-surface-above-ring=s,3,0.5209256523879862
+bruises?=f & gill-attachment=f & ring-number=o,3,0.5189561792220581
+gill-size=b & gill-spacing=c & ring-number=o,3,0.517971442639094
+bruises?=f & ring-number=o & veil-color=w,3,0.517971442639094
+gill-spacing=c & ring-number=o & stalk-surface-above-ring=s,3,0.5081240768094535
+class=e & gill-attachment=f & veil-color=w,3,0.49433776464795665
+gill-spacing=c & stalk-surface-below-ring=s & veil-color=w,3,0.4913835548990645
+gill-attachment=f & gill-spacing=c & stalk-surface-below-ring=s,3,0.4913835548990645
+ring-number=o & stalk-color-above-ring=w & veil-color=w,3,0.4894140817331364
+gill-attachment=f & ring-number=o & stalk-color-above-ring=w,3,0.4894140817331364
+gill-attachment=f & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.4879369768586903
+stalk-surface-above-ring=s & stalk-surface-below-ring=s & veil-color=w,3,0.4879369768586903
+gill-attachment=f & population=v & veil-color=w,3,0.4854751354012802
+gill-attachment=f & gill-size=b & stalk-root=b,3,0.4815361890694239
+gill-size=b & stalk-root=b & veil-color=w,3,0.4815361890694239
+gill-attachment=f & ring-number=o & stalk-color-below-ring=w,3,0.4795667159034958
+ring-number=o & stalk-color-below-ring=w & veil-color=w,3,0.4795667159034958
+class=p & gill-attachment=f & veil-color=w,3,0.47882816346627277
+gill-spacing=c & ring-number=o & stalk-surface-below-ring=s,3,0.47858197932053176
+population=v & ring-number=o & veil-color=w,3,0.47464303298867555
+gill-attachment=f & population=v & ring-number=o,3,0.47464303298867555
+stalk-root=b & stalk-shape=t & veil-color=w,3,0.4726735598227474
+gill-attachment=f & stalk-root=b & stalk-shape=t,3,0.4726735598227474
+ring-number=o & stalk-root=b & stalk-shape=t,3,0.4726735598227474
+gill-size=b & gill-spacing=c & stalk-root=b,3,0.46971935007385524
+class=p & gill-attachment=f & ring-number=o,3,0.4687346134908912
+class=p & gill-spacing=c & veil-color=w,3,0.46824224519940916
+class=p & ring-number=o & veil-color=w,3,0.46774987690792713
+ring-number=o & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.46627277203348105
+class=p & gill-attachment=f & gill-spacing=c,3,0.46602658788774004
+gill-attachment=f & ring-type=p & veil-color=w,3,0.464795667159035
+population=v & ring-number=o & stalk-root=b,3,0.464795667159035
+gill-attachment=f & population=v & stalk-root=b,3,0.4638109305760709
+population=v & stalk-root=b & veil-color=w,3,0.4638109305760709
+gill-spacing=c & population=v & ring-number=o,3,0.46282619399310687
+gill-attachment=f & gill-spacing=c & population=v,3,0.46184145741014276
+gill-spacing=c & population=v & veil-color=w,3,0.46184145741014276
+gill-spacing=c & ring-number=o & stalk-shape=t,3,0.4608567208271787
+gill-spacing=c & stalk-shape=t & veil-color=w,3,0.4608567208271787
+gill-attachment=f & gill-spacing=c & stalk-shape=t,3,0.4608567208271787
+gill-spacing=c & stalk-root=b & stalk-shape=t,3,0.4608567208271787
+class=e & gill-size=b & veil-color=w,3,0.4588872476612506
+class=e & gill-attachment=f & gill-size=b,3,0.4588872476612506
+class=p & gill-spacing=c & ring-number=o,3,0.4549483013293944
+gill-spacing=c & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.4529788281634663
+gill-spacing=c & population=v & stalk-root=b,3,0.4519940915805022
+bruises?=f & gill-attachment=f & stalk-root=b,3,0.44903988183161003
+bruises?=f & stalk-root=b & veil-color=w,3,0.44903988183161003
+class=p & gill-attachment=f & stalk-root=b,3,0.4451009354997538
+class=p & stalk-root=b & veil-color=w,3,0.4451009354997538
+cap-shape=x & gill-attachment=f & veil-color=w,3,0.44337764647956673
+stalk-root=b & stalk-surface-above-ring=s & veil-color=w,3,0.4362383062530773
+gill-attachment=f & stalk-root=b & stalk-surface-above-ring=s,3,0.4362383062530773
+class=p & ring-number=o & stalk-root=b,3,0.4362383062530773
+bruises?=f & ring-number=o & stalk-root=b,3,0.43525356967011325
+stalk-color-above-ring=w & stalk-color-below-ring=w & veil-color=w,3,0.43328409650418515
+gill-attachment=f & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.43328409650418515
+class=p & gill-spacing=c & stalk-root=b,3,0.4322993599212211
+gill-size=b & ring-number=o & stalk-root=b,3,0.43131462333825704
+stalk-root=b & stalk-surface-below-ring=s & veil-color=w,3,0.43032988675529293
+gill-attachment=f & stalk-root=b & stalk-surface-below-ring=s,3,0.43032988675529293
+class=e & gill-attachment=f & ring-number=o,3,0.4293451501723289
+class=e & ring-number=o & veil-color=w,3,0.4293451501723289
+bruises?=f & gill-spacing=c & ring-number=o,3,0.4293451501723289
+ring-type=p & stalk-surface-above-ring=s & veil-color=w,3,0.4273756770064008
+gill-attachment=f & ring-type=p & stalk-surface-above-ring=s,3,0.4273756770064008
+class=e & stalk-surface-above-ring=s & veil-color=w,3,0.4244214672575086
+class=e & gill-attachment=f & stalk-surface-above-ring=s,3,0.4244214672575086
+cap-shape=x & gill-attachment=f & ring-number=o,3,0.4204825209256524
+ring-number=o & ring-type=p & stalk-surface-above-ring=s,3,0.4204825209256524
+cap-shape=x & ring-number=o & veil-color=w,3,0.4204825209256524
+bruises?=f & gill-spacing=c & stalk-root=b,3,0.4194977843426883
+gill-attachment=f & gill-size=b & stalk-surface-above-ring=s,3,0.41851304775972425
+gill-size=b & stalk-surface-above-ring=s & veil-color=w,3,0.41851304775972425
+class=e & gill-size=b & ring-number=o,3,0.4175283111767602
+bruises?=t & gill-attachment=f & veil-color=w,3,0.4155588380108321
+class=e & gill-size=b & stalk-surface-above-ring=s,3,0.4155588380108321
+gill-attachment=f & ring-number=o & ring-type=p,3,0.41457410142786805
+ring-number=o & ring-type=p & veil-color=w,3,0.41457410142786805
+gill-spacing=c & stalk-root=b & stalk-surface-above-ring=s,3,0.41457410142786805
+gill-spacing=c & ring-number=o & ring-type=p,3,0.413589364844904
+bruises?=f & gill-spacing=c & veil-color=w,3,0.4121122599704579
+bruises?=f & gill-attachment=f & gill-spacing=c,3,0.4098966026587888
+ring-type=p & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.4096504185130478
+gill-attachment=f & odor=n & veil-color=w,3,0.4096504185130478
+gill-spacing=c & ring-type=p & stalk-surface-above-ring=s,3,0.4086656819300837
+gill-spacing=c & stalk-root=b & stalk-surface-below-ring=s,3,0.4086656819300837
+stalk-color-above-ring=w & stalk-surface-above-ring=s & veil-color=w,3,0.4066962087641556
+gill-attachment=f & stalk-color-above-ring=w & stalk-surface-above-ring=s,3,0.4066962087641556
+gill-attachment=f & stalk-shape=e & veil-color=w,3,0.40595765632693254
+ring-number=o & stalk-root=b & stalk-surface-above-ring=s,3,0.4057114721811915
+gill-spacing=c & ring-type=p & veil-color=w,3,0.40472673559822747
+gill-attachment=f & gill-spacing=c & ring-type=p,3,0.40472673559822747
+bruises?=f & class=p & veil-color=w,3,0.40423436730674545
+gill-attachment=f & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.4037419990152634
+stalk-color-below-ring=w & stalk-surface-above-ring=s & veil-color=w,3,0.4037419990152634
+ring-type=p & stalk-surface-below-ring=s & veil-color=w,3,0.4037419990152634
+gill-attachment=f & ring-type=p & stalk-surface-below-ring=s,3,0.4037419990152634
+bruises?=f & class=p & gill-attachment=f,3,0.4030034465780404
+bruises?=t & gill-spacing=c & veil-color=w,3,0.40275726243229937
+bruises?=t & gill-attachment=f & gill-spacing=c,3,0.40275726243229937
+class=e & ring-number=o & stalk-surface-above-ring=s,3,0.40275726243229937
+bruises?=f & class=p & ring-number=o,3,0.40078778926637126
+ring-number=o & stalk-root=b & stalk-surface-below-ring=s,3,0.3998030526834072
+bruises?=f & class=p & stalk-root=b,3,0.3998030526834072
+bruises?=t & stalk-surface-above-ring=s & veil-color=w,3,0.39783357951747905
+bruises?=t & gill-attachment=f & stalk-surface-above-ring=s,3,0.39783357951747905
+ring-number=o & ring-type=p & stalk-surface-below-ring=s,3,0.396848842934515
+cap-surface=y & gill-attachment=f & veil-color=w,3,0.39611029049729196
+ring-number=o & stalk-shape=t & stalk-surface-below-ring=s,3,0.39586410635155095
+gill-attachment=f & stalk-shape=t & stalk-surface-below-ring=s,3,0.39586410635155095
+ring-number=o & stalk-shape=t & stalk-surface-above-ring=s,3,0.39586410635155095
+stalk-shape=t & stalk-surface-above-ring=s & veil-color=w,3,0.39586410635155095
+stalk-shape=t & stalk-surface-below-ring=s & veil-color=w,3,0.39586410635155095
+class=e & odor=n & veil-color=w,3,0.39586410635155095
+gill-attachment=f & stalk-shape=t & stalk-surface-above-ring=s,3,0.39586410635155095
+class=e & gill-attachment=f & odor=n,3,0.39586410635155095
+class=e & gill-size=b & odor=n,3,0.39586410635155095
+class=e & stalk-surface-below-ring=s & veil-color=w,3,0.3948793697685869
+gill-attachment=f & gill-size=b & stalk-surface-below-ring=s,3,0.3948793697685869
+gill-size=b & stalk-surface-below-ring=s & veil-color=w,3,0.3948793697685869
+class=e & gill-attachment=f & stalk-surface-below-ring=s,3,0.3948793697685869
+cap-surface=y & gill-spacing=c & veil-color=w,3,0.3948793697685869
+cap-surface=y & gill-attachment=f & gill-spacing=c,3,0.3926637124569178
+bruises?=f & class=p & gill-spacing=c,3,0.39241752831117677
+bruises?=t & gill-attachment=f & ring-type=p,3,0.39192516001969474
+bruises?=t & ring-type=p & veil-color=w,3,0.39192516001969474
+class=e & gill-size=b & stalk-surface-below-ring=s,3,0.39192516001969474
+gill-attachment=f & gill-spacing=c & stalk-color-above-ring=w,3,0.3889709502708026
+gill-spacing=c & stalk-color-above-ring=w & veil-color=w,3,0.3889709502708026
+gill-size=b & ring-number=o & stalk-surface-above-ring=s,3,0.3879862136878385
+gill-attachment=f & habitat=d & veil-color=w,3,0.38527818808468733
+gill-spacing=c & stalk-color-below-ring=w & veil-color=w,3,0.3850320039389463
+bruises?=t & gill-spacing=c & stalk-surface-above-ring=s,3,0.3850320039389463
+gill-spacing=c & ring-type=p & stalk-surface-below-ring=s,3,0.3850320039389463
+gill-attachment=f & gill-spacing=c & stalk-color-below-ring=w,3,0.3850320039389463
+gill-attachment=f & gill-size=b & ring-type=p,3,0.3850320039389463
+gill-size=b & ring-type=p & veil-color=w,3,0.3850320039389463
+class=e & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.3845396356474643
+gill-attachment=f & habitat=d & stalk-root=b,3,0.3830625307730182
+habitat=d & stalk-root=b & veil-color=w,3,0.3830625307730182
+habitat=d & ring-number=o & stalk-root=b,3,0.38207779419005417
+habitat=d & ring-number=o & veil-color=w,3,0.38207779419005417
+gill-attachment=f & habitat=d & ring-number=o,3,0.38207779419005417
+stalk-root=b & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.38158542589857214
+gill-attachment=f & gill-size=b & odor=n,3,0.3810930576070901
+gill-size=b & odor=n & veil-color=w,3,0.3810930576070901
+cap-shape=f & gill-attachment=f & veil-color=w,3,0.3810930576070901
+bruises?=t & ring-number=o & ring-type=p,3,0.379123584441162
+ring-number=o & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.379123584441162
+bruises?=t & ring-number=o & veil-color=w,3,0.379123584441162
+bruises?=t & gill-spacing=c & ring-type=p,3,0.379123584441162
+bruises?=t & gill-attachment=f & ring-number=o,3,0.379123584441162
+gill-attachment=f & stalk-color-above-ring=w & stalk-surface-below-ring=s,3,0.37715411127523385
+stalk-color-above-ring=w & stalk-surface-below-ring=s & veil-color=w,3,0.37715411127523385
+gill-size=b & gill-spacing=c & stalk-surface-above-ring=s,3,0.37715411127523385
+gill-size=b & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.37715411127523385
+cap-surface=y & gill-attachment=f & ring-number=o,3,0.37567700640078777
+cap-surface=y & ring-number=o & veil-color=w,3,0.3746922698178237
+gill-attachment=f & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.3741999015263417
+bruises?=t & stalk-surface-below-ring=s & veil-color=w,3,0.3741999015263417
+stalk-color-below-ring=w & stalk-surface-below-ring=s & veil-color=w,3,0.3741999015263417
+bruises?=t & gill-attachment=f & stalk-surface-below-ring=s,3,0.3741999015263417
+bruises?=t & ring-type=p & stalk-surface-above-ring=s,3,0.3741999015263417
+gill-size=b & gill-spacing=c & ring-type=p,3,0.37321516494337764
+class=e & ring-number=o & stalk-surface-below-ring=s,3,0.37321516494337764
+gill-size=b & ring-type=p & stalk-surface-above-ring=s,3,0.37124569177744954
+bruises?=t & gill-attachment=f & gill-size=b,3,0.37124569177744954
+bruises?=t & gill-size=b & gill-spacing=c,3,0.37124569177744954
+bruises?=t & gill-size=b & veil-color=w,3,0.37124569177744954
+cap-surface=y & gill-spacing=c & ring-number=o,3,0.37124569177744954
+class=e & ring-type=p & stalk-surface-above-ring=s,3,0.3682914820285574
+class=e & gill-spacing=c & stalk-surface-above-ring=s,3,0.3682914820285574
+bruises?=t & gill-spacing=c & ring-number=o,3,0.3663220088626292
+cap-shape=f & gill-attachment=f & ring-number=o,3,0.3658296405711472
+cap-shape=f & ring-number=o & veil-color=w,3,0.3655834564254062
+cap-shape=x & gill-spacing=c & veil-color=w,3,0.36533727227966517
+bruises?=t & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.36533727227966517
+cap-shape=x & gill-attachment=f & gill-spacing=c,3,0.36459871984244213
+ring-number=o & stalk-color-above-ring=w & stalk-surface-above-ring=s,3,0.3643525356967011
+gill-spacing=c & ring-number=o & stalk-color-above-ring=w,3,0.3643525356967011
+class=e & gill-size=b & ring-type=p,3,0.3643525356967011
+class=e & gill-attachment=f & ring-type=p,3,0.3643525356967011
+gill-size=b & ring-number=o & stalk-surface-below-ring=s,3,0.3643525356967011
+class=e & ring-type=p & veil-color=w,3,0.3643525356967011
+gill-spacing=c & habitat=d & veil-color=w,3,0.3638601674052191
+gill-attachment=f & gill-spacing=c & habitat=d,3,0.36164451009355
+bruises?=t & gill-spacing=c & stalk-surface-below-ring=s,3,0.36139832594780896
+bruises?=t & ring-number=o & stalk-surface-above-ring=s,3,0.36139832594780896
+ring-number=o & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.36139832594780896
+gill-spacing=c & ring-number=o & stalk-color-below-ring=w,3,0.3604135893648449
+cap-shape=x & gill-spacing=c & ring-number=o,3,0.35942885278188086
+gill-spacing=c & habitat=d & stalk-root=b,3,0.35942885278188086
+gill-size=b & ring-number=o & ring-type=p,3,0.3584441161989168
+gill-spacing=c & habitat=d & ring-number=o,3,0.3584441161989168
+class=e & odor=n & ring-number=o,3,0.35450516986706054
+gill-spacing=c & stalk-shape=e & veil-color=w,3,0.3540128015755785
+gill-size=b & gill-spacing=c & stalk-surface-below-ring=s,3,0.3535204332840965
+bruises?=t & gill-size=b & stalk-surface-above-ring=s,3,0.3535204332840965
+class=e & gill-size=b & gill-spacing=c,3,0.35253569670113244
+gill-attachment=f & gill-spacing=c & stalk-shape=e,3,0.3517971442639094
+bruises?=t & ring-type=p & stalk-surface-below-ring=s,3,0.35056622353520434
+class=p & population=v & veil-color=w,3,0.35056622353520434
+class=p & gill-attachment=f & population=v,3,0.35056622353520434
+class=e & odor=n & stalk-surface-above-ring=s,3,0.3495814869522403
+stalk-root=b & stalk-shape=t & stalk-surface-below-ring=s,3,0.34859675036927623
+population=v & ring-number=o & stalk-shape=t,3,0.34859675036927623
+gill-attachment=f & population=v & stalk-shape=t,3,0.34859675036927623
+stalk-root=b & stalk-shape=t & stalk-surface-above-ring=s,3,0.34859675036927623
+population=v & stalk-shape=t & veil-color=w,3,0.34859675036927623
+population=v & stalk-root=b & stalk-shape=t,3,0.34859675036927623
+gill-attachment=f & gill-size=b & stalk-color-above-ring=w,3,0.3476120137863122
+bruises?=t & gill-size=b & ring-type=p,3,0.3476120137863122
+gill-size=b & stalk-color-below-ring=w & veil-color=w,3,0.3476120137863122
+gill-size=b & ring-type=p & stalk-surface-below-ring=s,3,0.3476120137863122
+gill-size=b & stalk-color-above-ring=w & veil-color=w,3,0.3476120137863122
+gill-attachment=f & gill-size=b & stalk-color-below-ring=w,3,0.3476120137863122
+class=e & gill-spacing=c & veil-color=w,3,0.3466272772033481
+class=e & gill-attachment=f & gill-spacing=c,3,0.3466272772033481
+class=e & ring-number=o & ring-type=p,3,0.3466272772033481
+class=e & ring-type=p & stalk-surface-below-ring=s,3,0.34465780403741997
+class=p & gill-spacing=c & population=v,3,0.34465780403741997
+class=e & odor=n & stalk-surface-below-ring=s,3,0.3436730674544559
+gill-attachment=f & gill-size=b & stalk-shape=t,3,0.34268833087149186
+gill-size=b & stalk-shape=t & veil-color=w,3,0.34268833087149186
+gill-size=b & ring-number=o & stalk-shape=t,3,0.34268833087149186
+class=p & population=v & ring-number=o,3,0.3417035942885278
+class=e & gill-spacing=c & ring-number=o,3,0.34071885770556376
+class=e & gill-spacing=c & ring-type=p,3,0.34071885770556376
+gill-attachment=f & ring-type=e & veil-color=w,3,0.34071885770556376
+class=e & stalk-color-above-ring=w & veil-color=w,3,0.33874938453963566
+bruises?=t & class=e & stalk-surface-above-ring=s,3,0.33874938453963566
+bruises?=t & class=e & gill-attachment=f,3,0.33874938453963566
+bruises?=t & class=e & veil-color=w,3,0.33874938453963566
+class=e & gill-spacing=c & stalk-surface-below-ring=s,3,0.33874938453963566
+class=e & gill-attachment=f & stalk-color-above-ring=w,3,0.33874938453963566
+bruises?=t & ring-number=o & stalk-surface-below-ring=s,3,0.3377646479566716
+gill-size=b & odor=n & stalk-surface-above-ring=s,3,0.3377646479566716
+gill-size=b & odor=n & stalk-surface-below-ring=s,3,0.3377646479566716
+gill-attachment=f & odor=n & ring-number=o,3,0.33677991137370755
+gill-spacing=c & stalk-shape=t & stalk-surface-below-ring=s,3,0.33677991137370755
+gill-spacing=c & stalk-shape=t & stalk-surface-above-ring=s,3,0.33677991137370755
+gill-spacing=c & population=v & stalk-shape=t,3,0.33677991137370755
+odor=n & ring-number=o & veil-color=w,3,0.3357951747907435
+gill-attachment=f & odor=n & stalk-surface-above-ring=s,3,0.3357951747907435
+odor=n & stalk-surface-above-ring=s & veil-color=w,3,0.3357951747907435
+gill-spacing=c & ring-number=o & stalk-shape=e,3,0.3348104382077794
+ring-number=o & stalk-color-above-ring=w & stalk-surface-below-ring=s,3,0.3348104382077794
+bruises?=t & gill-size=b & ring-number=o,3,0.3348104382077794
+ring-type=p & stalk-root=b & veil-color=w,3,0.3348104382077794
+gill-attachment=f & ring-type=p & stalk-root=b,3,0.3348104382077794
+bruises?=f & population=v & ring-number=o,3,0.3348104382077794
+class=p & population=v & stalk-root=b,3,0.3348104382077794
+class=e & gill-attachment=f & stalk-color-below-ring=w,3,0.3328409650418513
+class=e & stalk-color-below-ring=w & veil-color=w,3,0.3328409650418513
+cap-shape=x & gill-attachment=f & stalk-root=b,3,0.33234859675036926
+cap-shape=x & stalk-root=b & veil-color=w,3,0.33234859675036926
+ring-number=o & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.33185622845888724
+gill-attachment=f & ring-number=o & stalk-shape=e,3,0.3308714918759232
+gill-size=b & odor=n & ring-number=o,3,0.3308714918759232
+ring-number=o & stalk-shape=e & veil-color=w,3,0.32988675529295913
+bruises?=t & gill-size=b & stalk-surface-below-ring=s,3,0.32988675529295913
+gill-attachment=f & odor=n & stalk-surface-below-ring=s,3,0.32988675529295913
+odor=n & stalk-surface-below-ring=s & veil-color=w,3,0.32988675529295913
+bruises?=f & population=v & stalk-root=b,3,0.3289020187099951
+bruises?=t & class=e & gill-size=b,3,0.326932545544067
+bruises?=t & class=e & gill-spacing=c,3,0.326932545544067
+cap-shape=f & gill-spacing=c & veil-color=w,3,0.32644017725258495
+cap-shape=f & gill-attachment=f & gill-spacing=c,3,0.3257016248153619
+gill-attachment=f & stalk-color-above-ring=w & stalk-root=b,3,0.3249630723781389
+stalk-color-above-ring=w & stalk-root=b & veil-color=w,3,0.3249630723781389
+gill-size=b & stalk-shape=e & veil-color=w,3,0.32447070408665685
+stalk-color-above-ring=w & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.32397833579517477
+bruises?=f & gill-spacing=c & population=v,3,0.3229935992122107
+bruises?=f & gill-attachment=f & population=v,3,0.3229935992122107
+bruises?=f & population=v & veil-color=w,3,0.3229935992122107
+cap-surface=y & stalk-root=b & veil-color=w,3,0.3229935992122107
+cap-surface=y & gill-attachment=f & stalk-root=b,3,0.3229935992122107
+gill-attachment=f & gill-size=b & stalk-shape=e,3,0.3222550467749877
+gill-size=b & ring-type=p & stalk-root=b,3,0.32200886262924666
+gill-attachment=f & ring-type=p & stalk-color-above-ring=w,3,0.3210241260462826
+ring-type=p & stalk-color-above-ring=w & veil-color=w,3,0.3210241260462826
+gill-attachment=f & ring-type=p & stalk-color-below-ring=w,3,0.3210241260462826
+ring-type=p & stalk-color-below-ring=w & veil-color=w,3,0.3210241260462826
+ring-type=p & stalk-root=b & stalk-surface-above-ring=s,3,0.3210241260462826
+ring-type=p & stalk-root=b & stalk-surface-below-ring=s,3,0.3210241260462826
+odor=n & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.31954702117183653
+cap-surface=y & gill-spacing=c & stalk-root=b,3,0.31954702117183653
+stalk-color-above-ring=w & stalk-shape=t & veil-color=w,3,0.3190546528803545
+class=e & stalk-shape=t & veil-color=w,3,0.3190546528803545
+ring-number=o & stalk-color-below-ring=w & stalk-shape=t,3,0.3190546528803545
+ring-number=o & stalk-color-above-ring=w & stalk-shape=t,3,0.3190546528803545
+stalk-color-below-ring=w & stalk-shape=t & veil-color=w,3,0.3190546528803545
+class=e & ring-number=o & stalk-shape=t,3,0.3190546528803545
+gill-attachment=f & stalk-color-below-ring=w & stalk-shape=t,3,0.3190546528803545
+gill-attachment=f & stalk-color-above-ring=w & stalk-shape=t,3,0.3190546528803545
+class=e & gill-attachment=f & stalk-shape=t,3,0.3190546528803545
+cap-shape=x & gill-size=b & veil-color=w,3,0.31806991629739045
+bruises?=f & ring-number=o & ring-type=e,3,0.31806991629739045
+gill-attachment=f & ring-number=o & ring-type=e,3,0.31806991629739045
+bruises?=f & gill-attachment=f & ring-type=e,3,0.31806991629739045
+cap-shape=x & gill-attachment=f & gill-size=b,3,0.3173313638601674
+bruises?=f & ring-type=e & veil-color=w,3,0.3170851797144264
+ring-number=o & ring-type=e & veil-color=w,3,0.3170851797144264
+cap-shape=f & gill-spacing=c & ring-number=o,3,0.31610044313146235
+cap-shape=x & ring-number=o & stalk-root=b,3,0.31610044313146235
+bruises?=t & class=e & ring-type=p,3,0.3151157065484983
+bruises?=t & class=e & stalk-surface-below-ring=s,3,0.3151157065484983
+gill-attachment=f & stalk-color-below-ring=w & stalk-root=b,3,0.3151157065484983
+stalk-color-below-ring=w & stalk-root=b & veil-color=w,3,0.3151157065484983
+gill-spacing=c & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.31413096996553425
+gill-spacing=c & stalk-color-above-ring=w & stalk-surface-above-ring=s,3,0.31413096996553425
+class=e & odor=n & stalk-root=b,3,0.31314623338257014
+gill-size=b & gill-spacing=c & stalk-shape=e,3,0.3126538650910881
+bruises?=t & class=e & ring-number=o,3,0.31117676021664203
+stalk-shape=t & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.310192023633678
+gill-size=b & odor=n & stalk-root=b,3,0.310192023633678
+gill-attachment=f & gill-size=n & ring-number=o,3,0.30920728705071393
+gill-attachment=f & gill-size=n & veil-color=w,3,0.3082225504677499
+gill-size=n & ring-number=o & veil-color=w,3,0.3082225504677499
+ring-number=o & ring-type=p & stalk-root=b,3,0.3082225504677499
+gill-size=b & stalk-root=b & stalk-surface-below-ring=s,3,0.3082225504677499
+gill-size=b & stalk-root=b & stalk-surface-above-ring=s,3,0.3082225504677499
+bruises?=f & class=p & population=v,3,0.3082225504677499
+stalk-color-above-ring=w & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.30773018217626785
+class=e & odor=n & stalk-shape=t,3,0.3072378138847858
+odor=n & ring-number=o & stalk-shape=t,3,0.3072378138847858
+ring-number=o & ring-type=e & stalk-shape=t,3,0.3072378138847858
+class=e & gill-size=b & stalk-shape=t,3,0.3072378138847858
+bruises?=f & ring-type=e & stalk-shape=t,3,0.3072378138847858
+bruises?=f & ring-number=o & stalk-shape=t,3,0.3072378138847858
+bruises?=f & stalk-shape=t & veil-color=w,3,0.3072378138847858
+ring-type=e & stalk-shape=t & veil-color=w,3,0.3072378138847858
+gill-attachment=f & ring-type=e & stalk-shape=t,3,0.3072378138847858
+odor=n & stalk-shape=t & veil-color=w,3,0.3072378138847858
+gill-size=b & odor=n & stalk-shape=t,3,0.3072378138847858
+bruises?=f & gill-attachment=f & stalk-shape=t,3,0.3072378138847858
+gill-attachment=f & odor=n & stalk-shape=t,3,0.3072378138847858
+cap-shape=x & gill-spacing=c & stalk-root=b,3,0.3067454455933038
+stalk-color-below-ring=w & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.3062530773018218
+odor=n & ring-number=o & stalk-surface-above-ring=s,3,0.3052683407188577
+cap-surface=y & ring-number=o & stalk-root=b,3,0.30379123584441164
+class=e & gill-size=b & stalk-color-above-ring=w,3,0.3032988675529296
+class=e & gill-size=b & stalk-color-below-ring=w,3,0.3032988675529296
+gill-attachment=f & odor=n & stalk-root=b,3,0.3032988675529296
+odor=n & stalk-root=b & veil-color=w,3,0.3032988675529296
+class=e & stalk-root=b & stalk-surface-above-ring=s,3,0.3023141309699655
+cap-shape=f & stalk-root=b & veil-color=w,3,0.30157557853274247
+cap-shape=f & gill-attachment=f & stalk-root=b,3,0.30157557853274247
+class=e & stalk-root=b & veil-color=w,3,0.30132939438700146
+class=e & gill-attachment=f & stalk-root=b,3,0.30132939438700146
+class=e & gill-size=b & stalk-root=b,3,0.30132939438700146
+cap-shape=x & gill-size=b & ring-number=o,3,0.3003446578040374
+odor=n & stalk-root=b & stalk-surface-above-ring=s,3,0.3003446578040374
+odor=n & ring-number=o & stalk-surface-below-ring=s,3,0.29935992122107336
+cap-shape=f & gill-spacing=c & stalk-root=b,3,0.29935992122107336
+gill-spacing=c & ring-type=p & stalk-root=b,3,0.2983751846381093
+bruises?=t & stalk-root=b & veil-color=w,3,0.29739044805514525
+bruises?=t & gill-attachment=f & stalk-root=b,3,0.29739044805514525
+class=e & stalk-root=b & stalk-surface-below-ring=s,3,0.2964057114721812
+bruises?=f & gill-size=b & veil-color=w,3,0.2959133431806992
+habitat=d & ring-number=o & stalk-shape=t,3,0.29542097488921715
+gill-attachment=f & habitat=d & stalk-shape=t,3,0.29542097488921715
+habitat=d & stalk-root=b & stalk-shape=t,3,0.29542097488921715
+habitat=d & stalk-shape=t & veil-color=w,3,0.29542097488921715
+stalk-color-above-ring=w & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.2944362383062531
+gill-size=b & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.2944362383062531
+odor=n & stalk-root=b & stalk-surface-below-ring=s,3,0.2944362383062531
+bruises?=f & gill-attachment=f & gill-size=b,3,0.29369768586903006
+cap-shape=f & ring-number=o & stalk-root=b,3,0.292712949286066
+bruises?=f & stalk-surface-above-ring=k & veil-color=w,3,0.2919743968488429
+cap-surface=s & gill-attachment=f & veil-color=w,3,0.29098966026587886
+gill-attachment=f & spore-print-color=w & veil-color=w,3,0.29074347612013784
+gill-spacing=c & odor=n & stalk-surface-above-ring=s,3,0.29049729197439683
+bruises?=f & gill-attachment=f & stalk-surface-above-ring=k,3,0.2897587395371738
+gill-attachment=f & stalk-surface-above-ring=k & veil-color=w,3,0.2897587395371738
+class=e & odor=n & ring-type=p,3,0.2895125553914328
+class=e & ring-type=p & stalk-root=b,3,0.2895125553914328
+gill-attachment=f & habitat=d & stalk-surface-above-ring=s,3,0.2895125553914328
+habitat=d & ring-number=o & stalk-surface-above-ring=s,3,0.2895125553914328
+habitat=d & stalk-surface-above-ring=s & veil-color=w,3,0.2895125553914328
+habitat=d & stalk-root=b & stalk-surface-above-ring=s,3,0.2895125553914328
+gill-attachment=f & spore-print-color=w & stalk-root=b,3,0.28852781880846873
+spore-print-color=w & stalk-root=b & veil-color=w,3,0.28852781880846873
+gill-size=b & ring-number=o & stalk-color-above-ring=w,3,0.2875430822255047
+gill-size=b & ring-number=o & stalk-color-below-ring=w,3,0.2875430822255047
+class=e & ring-number=o & stalk-color-above-ring=w,3,0.2875430822255047
+bruises?=f & stalk-color-above-ring=w & veil-color=w,3,0.2875430822255047
+bruises?=f & gill-attachment=f & stalk-color-above-ring=w,3,0.2875430822255047
+odor=n & ring-type=p & stalk-root=b,3,0.2875430822255047
+gill-attachment=f & stalk-root=b & stalk-surface-above-ring=k,3,0.2875430822255047
+stalk-root=b & stalk-surface-above-ring=k & veil-color=w,3,0.2875430822255047
+bruises?=f & stalk-root=b & stalk-surface-above-ring=k,3,0.2875430822255047
+cap-shape=x & stalk-surface-above-ring=s & veil-color=w,3,0.2865583456425406
+cap-shape=x & gill-attachment=f & stalk-surface-above-ring=s,3,0.2865583456425406
+gill-size=b & odor=n & ring-type=p,3,0.2865583456425406
+ring-type=p & stalk-color-above-ring=w & stalk-surface-above-ring=s,3,0.28557360905957657
+ring-type=p & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.28557360905957657
+cap-surface=f & gill-attachment=f & veil-color=w,3,0.28557360905957657
+gill-spacing=c & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.2845888724766125
+gill-spacing=c & stalk-color-above-ring=w & stalk-surface-below-ring=s,3,0.2845888724766125
+population=v & ring-number=o & stalk-surface-above-ring=s,3,0.2845888724766125
+gill-spacing=c & odor=n & stalk-surface-below-ring=s,3,0.2845888724766125
+gill-spacing=c & odor=n & stalk-root=b,3,0.2845888724766125
+bruises?=t & gill-size=b & stalk-root=b,3,0.2845888724766125
+bruises?=t & gill-spacing=c & stalk-root=b,3,0.2845888724766125
+gill-attachment=f & population=v & stalk-surface-above-ring=s,3,0.28360413589364847
+population=v & stalk-surface-above-ring=s & veil-color=w,3,0.28360413589364847
+class=e & gill-spacing=c & odor=n,3,0.28360413589364847
+habitat=d & stalk-surface-below-ring=s & veil-color=w,3,0.28360413589364847
+habitat=d & ring-number=o & stalk-surface-below-ring=s,3,0.28360413589364847
+habitat=d & stalk-root=b & stalk-surface-below-ring=s,3,0.28360413589364847
+gill-attachment=f & habitat=d & stalk-surface-below-ring=s,3,0.28360413589364847
+gill-spacing=c & habitat=d & stalk-shape=t,3,0.28360413589364847
+gill-attachment=f & stalk-surface-below-ring=k & veil-color=w,3,0.28360413589364847
+bruises?=f & gill-attachment=f & stalk-surface-below-ring=k,3,0.28360413589364847
+bruises?=f & stalk-root=b & stalk-surface-below-ring=k,3,0.28360413589364847
+gill-attachment=f & stalk-root=b & stalk-surface-below-ring=k,3,0.28360413589364847
+stalk-root=b & stalk-surface-below-ring=k & veil-color=w,3,0.28360413589364847
+bruises?=f & stalk-surface-below-ring=k & veil-color=w,3,0.28360413589364847
+class=e & ring-number=o & stalk-color-below-ring=w,3,0.2816346627277203
+population=v & ring-number=o & stalk-surface-below-ring=s,3,0.2816346627277203
+gill-attachment=f & population=v & stalk-surface-below-ring=s,3,0.28064992614475626
+population=v & stalk-surface-below-ring=s & veil-color=w,3,0.28064992614475626
+class=e & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.2796651895617922
+odor=n & ring-type=p & stalk-surface-below-ring=s,3,0.2796651895617922
+odor=n & ring-type=p & stalk-surface-above-ring=s,3,0.2796651895617922
+bruises?=t & stalk-root=b & stalk-surface-above-ring=s,3,0.2796651895617922
+bruises?=t & stalk-root=b & stalk-surface-below-ring=s,3,0.2796651895617922
+cap-shape=f & gill-size=b & veil-color=w,3,0.2791728212703102
+gill-spacing=c & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.27868045297882815
+cap-shape=f & gill-attachment=f & gill-size=b,3,0.27843426883308714
+gill-size=n & gill-spacing=c & veil-color=w,3,0.2776957163958641
+gill-attachment=f & gill-size=n & gill-spacing=c,3,0.2776957163958641
+gill-size=n & gill-spacing=c & ring-number=o,3,0.2776957163958641
+bruises?=f & gill-attachment=f & stalk-color-below-ring=w,3,0.2776957163958641
+gill-size=b & stalk-shape=t & stalk-surface-above-ring=s,3,0.2776957163958641
+bruises?=f & gill-size=b & ring-number=o,3,0.2776957163958641
+bruises?=f & stalk-color-below-ring=w & veil-color=w,3,0.2776957163958641
+gill-size=b & stalk-shape=t & stalk-surface-below-ring=s,3,0.2776957163958641
+cap-shape=x & ring-number=o & stalk-surface-above-ring=s,3,0.27671097981290005
+gill-attachment=f & odor=n & ring-type=p,3,0.275726243229936
+odor=n & ring-type=p & veil-color=w,3,0.275726243229936
+gill-spacing=c & population=v & stalk-surface-above-ring=s,3,0.27474150664697194
+gill-size=b & gill-spacing=c & odor=n,3,0.27474150664697194
+class=p & stalk-surface-above-ring=k & veil-color=w,3,0.2742491383554899
+bruises?=f & gill-spacing=c & stalk-surface-above-ring=k,3,0.2742491383554899
+bruises?=f & class=p & stalk-surface-above-ring=k,3,0.2742491383554899
+gill-spacing=c & stalk-surface-above-ring=k & veil-color=w,3,0.2742491383554899
+class=p & gill-spacing=c & stalk-surface-above-ring=k,3,0.2742491383554899
+class=p & gill-size=n & ring-number=o,3,0.2737567700640079
+class=p & gill-attachment=f & gill-size=n,3,0.2737567700640079
+ring-type=p & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.2737567700640079
+bruises?=t & ring-type=p & stalk-root=b,3,0.2737567700640079
+population=v & stalk-root=b & stalk-surface-above-ring=s,3,0.2737567700640079
+gill-attachment=f & stalk-root=b & stalk-shape=e,3,0.2737567700640079
+stalk-root=b & stalk-shape=e & veil-color=w,3,0.2737567700640079
+ring-number=o & ring-type=p & stalk-color-above-ring=w,3,0.27277203348104384
+class=p & gill-size=n & veil-color=w,3,0.27277203348104384
+ring-number=o & ring-type=p & stalk-color-below-ring=w,3,0.27277203348104384
+gill-attachment=f & gill-spacing=c & odor=n,3,0.27277203348104384
+gill-spacing=c & odor=n & veil-color=w,3,0.27277203348104384
+gill-attachment=f & gill-spacing=c & stalk-surface-above-ring=k,3,0.2720334810438208
+class=p & gill-attachment=f & stalk-surface-above-ring=k,3,0.2720334810438208
+cap-shape=x & gill-attachment=f & stalk-surface-below-ring=s,3,0.2717872968980798
+cap-shape=x & stalk-surface-below-ring=s & veil-color=w,3,0.2717872968980798
+class=e & stalk-shape=t & stalk-surface-below-ring=s,3,0.2717872968980798
+class=e & stalk-shape=t & stalk-surface-above-ring=s,3,0.2717872968980798
+gill-spacing=c & population=v & stalk-surface-below-ring=s,3,0.2717872968980798
+class=e & gill-spacing=c & stalk-root=b,3,0.2717872968980798
+gill-size=b & gill-spacing=c & habitat=d,3,0.27129492860659776
+gill-size=b & habitat=d & veil-color=w,3,0.27129492860659776
+class=e & stalk-color-above-ring=w & stalk-surface-above-ring=s,3,0.2708025603151157
+gill-size=n & population=v & veil-color=w,3,0.2708025603151157
+gill-size=n & population=v & ring-number=o,3,0.2708025603151157
+gill-attachment=f & gill-size=n & population=v,3,0.2708025603151157
+population=v & stalk-root=b & stalk-surface-below-ring=s,3,0.2708025603151157
+gill-size=b & ring-number=o & stalk-shape=e,3,0.26981782373215163
+gill-attachment=f & ring-number=o & stalk-surface-above-ring=k,3,0.26981782373215163
+gill-spacing=c & stalk-root=b & stalk-surface-above-ring=k,3,0.26981782373215163
+bruises?=f & ring-number=o & stalk-surface-above-ring=k,3,0.26981782373215163
+gill-spacing=c & ring-number=o & stalk-surface-above-ring=k,3,0.26981782373215163
+class=p & ring-number=o & stalk-surface-above-ring=k,3,0.26981782373215163
+ring-number=o & stalk-root=b & stalk-surface-above-ring=k,3,0.26981782373215163
+ring-number=o & stalk-surface-above-ring=k & veil-color=w,3,0.26981782373215163
+class=p & stalk-root=b & stalk-surface-above-ring=k,3,0.26981782373215163
+gill-attachment=f & gill-size=b & habitat=d,3,0.2690792712949286
+cap-shape=f & gill-size=b & ring-number=o,3,0.2688330871491876
+class=e & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.2678483505662235
+cap-surface=f & gill-attachment=f & ring-number=o,3,0.2678483505662235
+cap-surface=f & ring-number=o & veil-color=w,3,0.2678483505662235
+gill-size=b & habitat=d & stalk-root=b,3,0.2668636139832595
+habitat=d & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.2658788774002954
+gill-spacing=c & habitat=d & stalk-surface-above-ring=s,3,0.2658788774002954
+gill-size=b & habitat=d & ring-number=o,3,0.2658788774002954
+class=p & ring-number=o & stalk-surface-below-ring=k,3,0.2658788774002954
+gill-attachment=f & gill-spacing=c & stalk-surface-below-ring=k,3,0.2658788774002954
+class=p & gill-spacing=c & odor=f,3,0.2658788774002954
+gill-spacing=c & stalk-root=b & stalk-surface-below-ring=k,3,0.2658788774002954
+ring-number=o & stalk-root=b & stalk-surface-below-ring=k,3,0.2658788774002954
+bruises?=f & ring-number=o & stalk-surface-below-ring=k,3,0.2658788774002954
+odor=f & ring-number=o & stalk-root=b,3,0.2658788774002954
+class=p & odor=f & ring-number=o,3,0.2658788774002954
+gill-attachment=f & odor=f & ring-number=o,3,0.2658788774002954
+bruises?=f & class=p & stalk-surface-below-ring=k,3,0.2658788774002954
+gill-spacing=c & stalk-surface-below-ring=k & veil-color=w,3,0.2658788774002954
+gill-spacing=c & odor=f & ring-number=o,3,0.2658788774002954
+gill-attachment=f & odor=f & veil-color=w,3,0.2658788774002954
+ring-number=o & stalk-surface-below-ring=k & veil-color=w,3,0.2658788774002954
+class=p & gill-attachment=f & stalk-surface-below-ring=k,3,0.2658788774002954
+class=p & odor=f & veil-color=w,3,0.2658788774002954
+gill-spacing=c & odor=f & veil-color=w,3,0.2658788774002954
+class=p & stalk-root=b & stalk-surface-below-ring=k,3,0.2658788774002954
+gill-spacing=c & ring-number=o & stalk-surface-below-ring=k,3,0.2658788774002954
+class=p & stalk-surface-below-ring=k & veil-color=w,3,0.2658788774002954
+gill-spacing=c & odor=f & stalk-root=b,3,0.2658788774002954
+odor=f & ring-number=o & veil-color=w,3,0.2658788774002954
+class=p & gill-spacing=c & stalk-surface-below-ring=k,3,0.2658788774002954
+bruises?=f & gill-spacing=c & stalk-surface-below-ring=k,3,0.2658788774002954
+odor=f & stalk-root=b & veil-color=w,3,0.2658788774002954
+gill-attachment=f & ring-number=o & stalk-surface-below-ring=k,3,0.2658788774002954
+class=p & gill-attachment=f & odor=f,3,0.2658788774002954
+class=p & odor=f & stalk-root=b,3,0.2658788774002954
+gill-attachment=f & odor=f & stalk-root=b,3,0.2658788774002954
+gill-attachment=f & gill-spacing=c & odor=f,3,0.2658788774002954
+gill-size=b & stalk-color-above-ring=w & stalk-surface-above-ring=s,3,0.26489414081733137
+cap-shape=x & gill-size=b & gill-spacing=c,3,0.26489414081733137
+gill-size=b & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.26489414081733137
+cap-surface=y & gill-size=b & gill-spacing=c,3,0.26489414081733137
+cap-surface=y & gill-size=b & veil-color=w,3,0.26489414081733137
+bruises?=f & gill-size=n & ring-number=o,3,0.26489414081733137
+bruises?=f & gill-attachment=f & gill-size=n,3,0.26489414081733137
+ring-number=o & stalk-color-above-ring=w & stalk-root=b,3,0.26489414081733137
+gill-size=n & stalk-root=b & veil-color=w,3,0.26489414081733137
+gill-size=n & ring-number=o & stalk-root=b,3,0.26489414081733137
+gill-attachment=f & gill-size=n & stalk-root=b,3,0.26489414081733137
+gill-attachment=f & habitat=g & veil-color=w,3,0.26440177252584934
+bruises?=f & spore-print-color=w & veil-color=w,3,0.26440177252584934
+bruises?=f & gill-size=n & veil-color=w,3,0.2639094042343673
+bruises?=f & gill-attachment=f & spore-print-color=w,3,0.2631708517971443
+gill-spacing=c & odor=n & ring-type=p,3,0.26292466765140327
+cap-surface=y & gill-attachment=f & gill-size=b,3,0.26267848350566225
+cap-shape=x & ring-number=o & stalk-surface-below-ring=s,3,0.2619399310684392
+bruises?=t & gill-attachment=f & stalk-color-below-ring=w,3,0.2619399310684392
+bruises?=t & gill-attachment=f & stalk-color-above-ring=w,3,0.2619399310684392
+ring-type=p & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.2619399310684392
+bruises?=t & stalk-color-below-ring=w & veil-color=w,3,0.2619399310684392
+ring-type=p & stalk-color-above-ring=w & stalk-surface-below-ring=s,3,0.2619399310684392
+bruises?=t & stalk-color-above-ring=w & veil-color=w,3,0.2619399310684392
+gill-spacing=c & ring-type=p & stalk-color-above-ring=w,3,0.26095519448547516
+gill-spacing=c & ring-type=p & stalk-color-below-ring=w,3,0.26095519448547516
+bruises?=t & ring-number=o & stalk-root=b,3,0.26095519448547516
+class=p & gill-size=n & gill-spacing=c,3,0.25997045790251105
+odor=n & stalk-shape=t & stalk-surface-above-ring=s,3,0.25997045790251105
+odor=n & stalk-shape=t & stalk-surface-below-ring=s,3,0.25997045790251105
+bruises?=t & stalk-shape=t & veil-color=w,3,0.25997045790251105
+ring-type=p & stalk-shape=t & veil-color=w,3,0.25997045790251105
+bruises?=t & ring-type=p & stalk-shape=t,3,0.25997045790251105
+habitat=d & stalk-shape=t & stalk-surface-above-ring=s,3,0.25997045790251105
+habitat=d & stalk-shape=t & stalk-surface-below-ring=s,3,0.25997045790251105
+bruises?=t & gill-attachment=f & stalk-shape=t,3,0.25997045790251105
+ring-number=o & ring-type=p & stalk-shape=t,3,0.25997045790251105
+ring-type=p & stalk-root=b & stalk-shape=t,3,0.25997045790251105
+bruises?=t & stalk-root=b & stalk-shape=t,3,0.25997045790251105
+class=e & ring-number=o & stalk-root=b,3,0.25997045790251105
+bruises?=t & ring-number=o & stalk-shape=t,3,0.25997045790251105
+gill-attachment=f & ring-type=p & stalk-shape=t,3,0.25997045790251105
+gill-spacing=c & habitat=d & stalk-surface-below-ring=s,3,0.25997045790251105
+bruises?=f & stalk-root=b & stalk-shape=e,3,0.25997045790251105
+bruises?=f & spore-print-color=w & stalk-root=b,3,0.25997045790251105
+gill-spacing=c & stalk-color-above-ring=w & stalk-root=b,3,0.258985721319547
+gill-spacing=c & odor=n & ring-number=o,3,0.25800098473658295
+gill-size=b & stalk-root=b & stalk-shape=e,3,0.2570162481536189
+cap-color=n & gill-attachment=f & veil-color=w,3,0.2567700640078779
+cap-surface=y & stalk-surface-above-ring=s & veil-color=w,3,0.25652387986213687
+cap-surface=y & gill-attachment=f & stalk-surface-above-ring=s,3,0.25652387986213687
+ring-number=o & stalk-color-below-ring=w & stalk-root=b,3,0.2550467749876908
+gill-spacing=c & stalk-color-below-ring=w & stalk-root=b,3,0.2550467749876908
+cap-surface=y & gill-spacing=c & stalk-surface-above-ring=s,3,0.25455440669620877
+cap-surface=s & ring-number=o & veil-color=w,3,0.25406203840472674
+cap-surface=s & gill-attachment=f & ring-number=o,3,0.25406203840472674
+odor=n & stalk-color-above-ring=w & veil-color=w,3,0.25406203840472674
+gill-attachment=f & odor=n & stalk-color-above-ring=w,3,0.25406203840472674
+odor=n & ring-number=o & stalk-root=b,3,0.2530773018217627
+bruises?=f & stalk-shape=e & veil-color=w,3,0.25258493353028066
+cap-shape=x & gill-attachment=f & stalk-color-above-ring=w,3,0.25209256523879864
+cap-shape=x & stalk-color-above-ring=w & veil-color=w,3,0.25209256523879864
+bruises?=f & ring-number=o & stalk-color-above-ring=w,3,0.25209256523879864
+bruises?=t & class=e & stalk-root=b,3,0.25209256523879864
+bruises?=f & gill-size=n & stalk-root=b,3,0.25209256523879864
+bruises?=f & gill-attachment=f & stalk-shape=e,3,0.2513540128015756
+cap-surface=f & gill-attachment=f & gill-size=b,3,0.2511078286558346
+cap-surface=f & gill-size=b & veil-color=w,3,0.2511078286558346
+gill-spacing=c & spore-print-color=w & veil-color=w,3,0.25061546036435256
+bruises?=t & ring-type=p & stalk-color-below-ring=w,3,0.25012309207287053
+bruises?=t & ring-type=p & stalk-color-above-ring=w,3,0.25012309207287053
+bruises?=t & odor=n & veil-color=w,3,0.25012309207287053
+bruises?=t & odor=n & stalk-surface-below-ring=s,3,0.25012309207287053
+bruises?=t & odor=n & stalk-surface-above-ring=s,3,0.25012309207287053
+bruises?=t & gill-attachment=f & odor=n,3,0.25012309207287053
+bruises?=t & odor=n & stalk-root=b,3,0.25012309207287053
+bruises?=t & gill-spacing=c & stalk-color-below-ring=w,3,0.24913835548990645
+bruises?=t & gill-spacing=c & stalk-color-above-ring=w,3,0.24913835548990645
+cap-shape=x & stalk-color-below-ring=w & veil-color=w,3,0.24913835548990645
+cap-shape=x & gill-attachment=f & stalk-color-below-ring=w,3,0.24913835548990645
+odor=n & ring-number=o & ring-type=p,3,0.24913835548990645
+gill-attachment=f & habitat=d & ring-type=p,3,0.24913835548990645
+habitat=d & ring-type=p & veil-color=w,3,0.24913835548990645
+habitat=d & ring-type=p & stalk-root=b,3,0.24913835548990645
+gill-size=n & population=v & stalk-root=b,3,0.24913835548990645
+bruises?=t & gill-size=b & odor=n,3,0.24913835548990645
+bruises?=t & gill-spacing=c & odor=n,3,0.24913835548990645
+gill-attachment=f & gill-size=b & habitat=g,3,0.24864598719842443
+gill-size=b & habitat=g & veil-color=w,3,0.24864598719842443
+gill-attachment=f & gill-spacing=c & spore-print-color=w,3,0.24839980305268342
+cap-shape=x & gill-attachment=f & stalk-shape=t,3,0.2481536189069424
+cap-shape=x & stalk-shape=t & veil-color=w,3,0.2481536189069424
+cap-shape=x & ring-number=o & stalk-shape=t,3,0.2481536189069424
+cap-shape=f & ring-number=o & stalk-shape=t,3,0.2481536189069424
+cap-shape=f & gill-attachment=f & stalk-shape=t,3,0.2481536189069424
+cap-shape=f & stalk-shape=t & veil-color=w,3,0.2481536189069424
+habitat=d & ring-type=p & stalk-surface-above-ring=s,3,0.2481536189069424
+habitat=d & ring-number=o & ring-type=p,3,0.2481536189069424
+habitat=d & ring-type=p & stalk-surface-below-ring=s,3,0.2481536189069424
+gill-size=b & gill-spacing=c & stalk-shape=t,3,0.2481536189069424
+bruises?=t & gill-spacing=c & stalk-shape=t,3,0.2481536189069424
+gill-size=b & stalk-root=b & stalk-shape=t,3,0.2481536189069424
+bruises?=t & gill-size=b & stalk-shape=t,3,0.2481536189069424
+gill-spacing=c & ring-type=p & stalk-shape=t,3,0.2481536189069424
+gill-size=b & ring-type=p & stalk-shape=t,3,0.2481536189069424
+class=p & ring-number=o & stalk-shape=t,3,0.2481536189069424
+class=p & stalk-root=b & stalk-shape=t,3,0.2481536189069424
+class=p & gill-attachment=f & stalk-shape=t,3,0.2481536189069424
+class=p & stalk-shape=t & veil-color=w,3,0.2481536189069424
+class=p & gill-spacing=c & stalk-shape=t,3,0.2481536189069424
+cap-color=n & ring-number=o & veil-color=w,3,0.24716888232397832
+cap-color=n & gill-attachment=f & ring-number=o,3,0.24716888232397832
+gill-size=n & gill-spacing=c & population=v,3,0.24716888232397832
+gill-attachment=f & ring-type=e & spore-print-color=w,3,0.24716888232397832
+bruises?=f & gill-size=n & gill-spacing=c,3,0.24618414574101427
+ring-type=e & stalk-root=b & veil-color=w,3,0.24618414574101427
+ring-type=e & spore-print-color=w & stalk-root=b,3,0.24618414574101427
+gill-spacing=c & spore-print-color=w & stalk-root=b,3,0.24618414574101427
+gill-attachment=f & ring-type=e & stalk-root=b,3,0.24618414574101427
+ring-type=e & spore-print-color=w & veil-color=w,3,0.24618414574101427
+bruises?=f & cap-shape=x & veil-color=w,3,0.24519940915805022
+bruises?=f & cap-shape=x & gill-attachment=f,3,0.24446085672082718
+cap-shape=x & gill-spacing=c & stalk-surface-above-ring=s,3,0.24421467257508617
+bruises?=t & stalk-color-above-ring=w & stalk-surface-above-ring=s,3,0.24421467257508617
+bruises?=t & stalk-color-below-ring=w & stalk-surface-above-ring=s,3,0.24421467257508617
+odor=n & stalk-color-below-ring=w & veil-color=w,3,0.24421467257508617
+gill-attachment=f & odor=n & stalk-color-below-ring=w,3,0.24421467257508617
+class=p & gill-size=n & population=v,3,0.24421467257508617
+bruises?=f & gill-size=n & population=v,3,0.24322993599212211
+gill-spacing=c & stalk-root=b & stalk-shape=e,3,0.24322993599212211
+bruises?=f & ring-number=o & stalk-color-below-ring=w,3,0.24224519940915806
+ring-type=p & stalk-shape=t & stalk-surface-below-ring=s,3,0.24224519940915806
+bruises?=t & stalk-shape=t & stalk-surface-above-ring=s,3,0.24224519940915806
+ring-type=p & stalk-shape=t & stalk-surface-above-ring=s,3,0.24224519940915806
+bruises?=t & stalk-shape=t & stalk-surface-below-ring=s,3,0.24224519940915806
+gill-size=b & ring-type=p & stalk-color-above-ring=w,3,0.24126046282619398
+class=e & stalk-color-above-ring=w & stalk-surface-below-ring=s,3,0.24126046282619398
+gill-size=b & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.24126046282619398
+gill-size=b & stalk-color-above-ring=w & stalk-surface-below-ring=s,3,0.24126046282619398
+gill-size=b & ring-type=p & stalk-color-below-ring=w,3,0.24126046282619398
+cap-surface=y & gill-size=b & ring-number=o,3,0.24126046282619398
+class=p & gill-size=n & stalk-root=b,3,0.24126046282619398
+bruises?=f & class=p & gill-size=n,3,0.24126046282619398
+cap-shape=x & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.24027572624322993
+class=e & odor=n & stalk-color-above-ring=w,3,0.24027572624322993
+bruises?=t & class=e & odor=n,3,0.24027572624322993
+gill-spacing=c & ring-type=e & stalk-root=b,3,0.24027572624322993
+gill-spacing=c & ring-type=e & veil-color=w,3,0.24027572624322993
+gill-attachment=f & gill-spacing=c & ring-type=e,3,0.24027572624322993
+gill-spacing=c & ring-type=e & spore-print-color=w,3,0.24027572624322993
+class=e & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.23830625307730183
+cap-surface=y & ring-number=o & stalk-surface-above-ring=s,3,0.23830625307730183
+cap-shape=f & gill-size=b & gill-spacing=c,3,0.2378138847858198
+bruises?=t & ring-number=o & stalk-color-below-ring=w,3,0.23732151649433778
+bruises?=t & ring-number=o & stalk-color-above-ring=w,3,0.23732151649433778
+bruises?=f & cap-shape=x & ring-number=o,3,0.23732151649433778
+cap-color=n & gill-spacing=c & ring-number=o,3,0.2363367799113737
+ring-number=o & spore-print-color=n & veil-color=w,3,0.2363367799113737
+gill-attachment=f & ring-number=o & spore-print-color=n,3,0.2363367799113737
+gill-attachment=f & spore-print-color=n & veil-color=w,3,0.2363367799113737
+bruises?=f & ring-number=o & stalk-shape=e,3,0.23535204332840964
+cap-shape=x & ring-number=o & stalk-color-above-ring=w,3,0.2343673067454456
+class=e & odor=n & stalk-color-below-ring=w,3,0.2343673067454456
+gill-attachment=f & habitat=d & population=v,3,0.2343673067454456
+habitat=d & population=v & ring-number=o,3,0.2343673067454456
+habitat=d & population=v & veil-color=w,3,0.2343673067454456
+habitat=d & population=v & stalk-root=b,3,0.2343673067454456
+gill-size=n & gill-spacing=c & stalk-root=b,3,0.2343673067454456
+cap-shape=x & class=e & gill-attachment=f,3,0.23387493845396357
+cap-shape=x & class=e & veil-color=w,3,0.23387493845396357
+population=v & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.23338257016248154
+cap-surface=f & gill-size=b & ring-number=o,3,0.23338257016248154
+population=v & stalk-shape=t & stalk-surface-below-ring=s,3,0.23338257016248154
+population=v & stalk-shape=t & stalk-surface-above-ring=s,3,0.23338257016248154
+class=p & stalk-shape=e & veil-color=w,3,0.2328902018709995
+cap-shape=x & gill-size=b & stalk-root=b,3,0.23190546528803546
+class=p & gill-attachment=f & stalk-shape=e,3,0.23165928114229445
+cap-shape=x & ring-number=o & stalk-color-below-ring=w,3,0.23141309699655344
+class=e & habitat=d & stalk-root=b,3,0.23141309699655344
+class=e & gill-attachment=f & habitat=d,3,0.23141309699655344
+class=e & habitat=d & veil-color=w,3,0.23141309699655344
+cap-surface=s & stalk-color-above-ring=w & veil-color=w,3,0.23092072870507138
+cap-shape=x & gill-attachment=f & ring-type=p,3,0.23092072870507138
+cap-surface=s & gill-attachment=f & stalk-color-above-ring=w,3,0.23092072870507138
+cap-shape=x & ring-type=p & veil-color=w,3,0.23092072870507138
+cap-surface=s & gill-attachment=f & stalk-color-below-ring=w,3,0.23092072870507138
+cap-surface=s & stalk-color-below-ring=w & veil-color=w,3,0.23092072870507138
+gill-attachment=f & stalk-color-above-ring=w & stalk-shape=e,3,0.23042836041358936
+ring-number=o & spore-print-color=k & veil-color=w,3,0.23042836041358936
+gill-attachment=f & ring-number=o & spore-print-color=k,3,0.23042836041358936
+stalk-color-above-ring=w & stalk-shape=e & veil-color=w,3,0.23042836041358936
+gill-attachment=f & spore-print-color=k & veil-color=w,3,0.23042836041358936
+class=e & habitat=d & ring-number=o,3,0.23042836041358936
+class=e & habitat=d & stalk-surface-above-ring=s,3,0.23042836041358936
+ring-number=o & stalk-color-below-ring=p & veil-color=w,3,0.23042836041358936
+stalk-color-below-ring=p & stalk-root=b & veil-color=w,3,0.23042836041358936
+gill-attachment=f & ring-number=o & stalk-color-below-ring=p,3,0.23042836041358936
+gill-spacing=c & ring-number=o & stalk-color-below-ring=p,3,0.23042836041358936
+ring-number=o & stalk-color-below-ring=p & stalk-root=b,3,0.23042836041358936
+gill-attachment=f & gill-spacing=c & stalk-color-below-ring=p,3,0.23042836041358936
+gill-spacing=c & stalk-color-below-ring=p & veil-color=w,3,0.23042836041358936
+gill-attachment=f & stalk-color-below-ring=p & stalk-root=b,3,0.23042836041358936
+gill-attachment=f & stalk-color-below-ring=p & veil-color=w,3,0.23042836041358936
+gill-spacing=c & stalk-color-below-ring=p & stalk-root=b,3,0.23042836041358936
+stalk-color-above-ring=p & stalk-root=b & veil-color=w,3,0.23042836041358936
+ring-number=o & stalk-color-above-ring=p & stalk-root=b,3,0.23042836041358936
+gill-spacing=c & stalk-color-above-ring=p & stalk-root=b,3,0.23042836041358936
+gill-attachment=f & stalk-color-above-ring=p & veil-color=w,3,0.23042836041358936
+gill-spacing=c & ring-number=o & stalk-color-above-ring=p,3,0.23042836041358936
+gill-attachment=f & ring-number=o & stalk-color-above-ring=p,3,0.23042836041358936
+ring-number=o & stalk-color-above-ring=p & veil-color=w,3,0.23042836041358936
+gill-attachment=f & stalk-color-above-ring=p & stalk-root=b,3,0.23042836041358936
+gill-spacing=c & stalk-color-above-ring=p & veil-color=w,3,0.23042836041358936
+gill-attachment=f & gill-spacing=c & stalk-color-above-ring=p,3,0.23042836041358936
+bruises?=f & odor=f & ring-number=o,3,0.23042836041358936
+bruises?=f & odor=f & stalk-root=b,3,0.23042836041358936
+bruises?=f & gill-spacing=c & odor=f,3,0.23042836041358936
+bruises?=f & odor=f & veil-color=w,3,0.23042836041358936
+bruises?=f & gill-attachment=f & odor=f,3,0.23042836041358936
+bruises?=f & class=p & odor=f,3,0.23042836041358936
+class=p & population=v & stalk-shape=t,3,0.23042836041358936
+cap-shape=f & stalk-surface-above-ring=s & veil-color=w,3,0.23018217626784834
+cap-shape=f & gill-attachment=f & stalk-surface-above-ring=s,3,0.23018217626784834
+cap-shape=x & gill-spacing=c & stalk-surface-below-ring=s,3,0.2294436238306253
+stalk-color-above-ring=w & stalk-root=b & stalk-surface-above-ring=s,3,0.2294436238306253
+population=v & stalk-color-above-ring=w & veil-color=w,3,0.22845888724766125
+gill-attachment=f & population=v & stalk-color-above-ring=w,3,0.22845888724766125
+cap-surface=y & stalk-surface-below-ring=s & veil-color=w,3,0.22698178237321517
+cap-surface=y & gill-attachment=f & stalk-surface-below-ring=s,3,0.22698178237321517
+cap-color=g & gill-attachment=f & veil-color=w,3,0.22648941408173315
+stalk-color-below-ring=w & stalk-root=b & stalk-surface-above-ring=s,3,0.22648941408173315
+cap-surface=f & stalk-root=b & veil-color=w,3,0.22648941408173315
+cap-surface=f & gill-attachment=f & stalk-root=b,3,0.22648941408173315
+bruises?=t & odor=n & ring-type=p,3,0.22648941408173315
+gill-size=b & gill-spacing=c & population=v,3,0.22648941408173315
+gill-size=b & population=v & stalk-root=b,3,0.22648941408173315
+gill-size=b & odor=n & stalk-color-above-ring=w,3,0.22550467749876907
+gill-size=b & odor=n & stalk-color-below-ring=w,3,0.22550467749876907
+class=e & habitat=d & ring-type=p,3,0.22550467749876907
+gill-spacing=c & habitat=d & ring-type=p,3,0.22550467749876907
+cap-shape=x & class=e & gill-size=b,3,0.22501230920728704
+cap-surface=y & gill-spacing=c & stalk-surface-below-ring=s,3,0.22501230920728704
+bruises?=f & gill-size=b & stalk-shape=e,3,0.22501230920728704
+gill-attachment=f & habitat=g & ring-number=o,3,0.22451994091580502
+habitat=g & ring-number=o & veil-color=w,3,0.22451994091580502
+bruises?=f & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.22451994091580502
+class=e & habitat=d & stalk-shape=t,3,0.22451994091580502
+gill-size=n & stalk-shape=t & veil-color=w,3,0.22451994091580502
+class=e & habitat=d & stalk-surface-below-ring=s,3,0.22451994091580502
+stalk-color-above-ring=w & stalk-root=b & stalk-shape=t,3,0.22451994091580502
+habitat=d & ring-type=p & stalk-shape=t,3,0.22451994091580502
+gill-size=n & population=v & stalk-shape=t,3,0.22451994091580502
+bruises?=t & habitat=d & ring-type=p,3,0.22451994091580502
+bruises?=t & habitat=d & stalk-root=b,3,0.22451994091580502
+bruises?=t & class=e & habitat=d,3,0.22451994091580502
+gill-attachment=f & gill-size=n & stalk-shape=t,3,0.22451994091580502
+bruises?=t & gill-attachment=f & habitat=d,3,0.22451994091580502
+bruises?=t & class=e & stalk-shape=t,3,0.22451994091580502
+class=e & stalk-root=b & stalk-shape=t,3,0.22451994091580502
+bruises?=t & habitat=d & stalk-shape=t,3,0.22451994091580502
+bruises?=t & habitat=d & stalk-surface-above-ring=s,3,0.22451994091580502
+bruises?=t & habitat=d & ring-number=o,3,0.22451994091580502
+gill-size=n & ring-number=o & stalk-shape=t,3,0.22451994091580502
+bruises?=t & habitat=d & veil-color=w,3,0.22451994091580502
+stalk-color-below-ring=w & stalk-root=b & stalk-shape=t,3,0.22451994091580502
+gill-size=n & stalk-root=b & stalk-shape=t,3,0.22451994091580502
+class=e & ring-type=p & stalk-shape=t,3,0.22451994091580502
+bruises?=t & habitat=d & stalk-surface-below-ring=s,3,0.22451994091580502
+cap-shape=f & gill-size=b & stalk-root=b,3,0.22451994091580502
+gill-attachment=f & ring-number=o & spore-print-color=w,3,0.22451994091580502
+population=v & spore-print-color=w & stalk-root=b,3,0.22451994091580502
+gill-attachment=f & gill-size=n & spore-print-color=w,3,0.22451994091580502
+population=v & spore-print-color=w & veil-color=w,3,0.22451994091580502
+gill-size=n & ring-number=o & spore-print-color=w,3,0.22451994091580502
+gill-attachment=f & population=v & spore-print-color=w,3,0.22451994091580502
+stalk-color-above-ring=w & stalk-root=b & stalk-surface-below-ring=s,3,0.22353520433284096
+gill-spacing=c & habitat=d & odor=n,3,0.22353520433284096
+habitat=d & odor=n & stalk-root=b,3,0.22353520433284096
+habitat=d & odor=n & veil-color=w,3,0.22353520433284096
+gill-attachment=f & habitat=d & odor=n,3,0.22353520433284096
+ring-number=o & stalk-root=b & stalk-shape=e,3,0.22353520433284096
+bruises?=f & gill-size=n & spore-print-color=w,3,0.22353520433284096
+gill-size=n & spore-print-color=w & stalk-root=b,3,0.22353520433284096
+bruises?=f & ring-type=e & spore-print-color=w,3,0.22353520433284096
+gill-size=n & ring-type=e & spore-print-color=w,3,0.22353520433284096
+ring-number=o & spore-print-color=w & veil-color=w,3,0.22353520433284096
+bruises?=f & gill-size=n & ring-type=e,3,0.22353520433284096
+ring-number=o & spore-print-color=w & stalk-root=b,3,0.22353520433284096
+gill-size=n & spore-print-color=w & veil-color=w,3,0.22353520433284096
+bruises?=f & ring-number=o & spore-print-color=w,3,0.22353520433284096
+gill-attachment=f & gill-size=n & ring-type=e,3,0.22353520433284096
+gill-size=n & ring-number=o & ring-type=e,3,0.22353520433284096
+ring-number=o & ring-type=e & spore-print-color=w,3,0.22353520433284096
+cap-color=n & gill-spacing=c & veil-color=w,3,0.22304283604135894
+bruises?=f & gill-spacing=c & stalk-shape=e,3,0.22304283604135894
+bruises?=f & gill-spacing=c & spore-print-color=w,3,0.22304283604135894
+cap-shape=x & ring-number=o & ring-type=p,3,0.2225504677498769
+ring-type=e & stalk-color-above-ring=w & veil-color=w,3,0.2225504677498769
+gill-attachment=f & ring-type=e & stalk-color-above-ring=w,3,0.2225504677498769
+habitat=d & odor=n & ring-number=o,3,0.2225504677498769
+bruises?=f & population=v & spore-print-color=w,3,0.2225504677498769
+bruises?=f & population=v & ring-type=e,3,0.2225504677498769
+gill-size=n & ring-type=e & veil-color=w,3,0.2225504677498769
+population=v & ring-number=o & ring-type=e,3,0.2225504677498769
+population=v & ring-type=e & stalk-root=b,3,0.2225504677498769
+population=v & ring-number=o & spore-print-color=w,3,0.2225504677498769
+ring-number=o & ring-type=e & stalk-root=b,3,0.2225504677498769
+gill-size=n & population=v & ring-type=e,3,0.2225504677498769
+gill-size=n & population=v & spore-print-color=w,3,0.2225504677498769
+bruises?=f & ring-type=e & stalk-root=b,3,0.2225504677498769
+gill-attachment=f & population=v & ring-type=e,3,0.2225504677498769
+gill-size=n & ring-type=e & stalk-root=b,3,0.2225504677498769
+population=v & ring-type=e & veil-color=w,3,0.2225504677498769
+population=v & ring-type=e & spore-print-color=w,3,0.2225504677498769
+cap-color=n & gill-attachment=f & gill-spacing=c,3,0.2223042836041359
+class=p & spore-print-color=w & veil-color=w,3,0.2220580994583949
+bruises?=f & class=p & spore-print-color=w,3,0.2220580994583949
+cap-shape=f & ring-number=o & stalk-surface-above-ring=s,3,0.22181191531265387
+cap-shape=x & ring-type=p & stalk-surface-above-ring=s,3,0.22156573116691286
+bruises?=f & ring-number=o & stalk-surface-above-ring=s,3,0.22156573116691286
+stalk-root=b & stalk-surface-above-ring=k & stalk-surface-below-ring=k,3,0.22156573116691286
+gill-attachment=f & stalk-surface-above-ring=k & stalk-surface-below-ring=k,3,0.22156573116691286
+bruises?=f & stalk-surface-above-ring=k & stalk-surface-below-ring=k,3,0.22156573116691286
+stalk-surface-above-ring=k & stalk-surface-below-ring=k & veil-color=w,3,0.22156573116691286
+class=p & gill-spacing=c & spore-print-color=w,3,0.22107336287543083
+class=p & gill-attachment=f & spore-print-color=w,3,0.22082717872968982
+stalk-color-below-ring=w & stalk-shape=e & veil-color=w,3,0.22058099458394878
+bruises?=t & stalk-color-above-ring=w & stalk-surface-below-ring=s,3,0.22058099458394878
+class=p & ring-number=o & stalk-shape=e,3,0.22058099458394878
+bruises?=t & stalk-color-below-ring=w & stalk-surface-below-ring=s,3,0.22058099458394878
+gill-attachment=f & stalk-color-below-ring=w & stalk-shape=e,3,0.22058099458394878
+class=e & ring-type=p & stalk-color-below-ring=w,3,0.22058099458394878
+class=e & ring-type=p & stalk-color-above-ring=w,3,0.22058099458394878
+cap-surface=y & population=v & veil-color=w,3,0.22058099458394878
+cap-surface=y & gill-attachment=f & population=v,3,0.22058099458394878
+stalk-color-below-ring=w & stalk-root=b & stalk-surface-below-ring=s,3,0.22058099458394878
+bruises?=f & gill-size=b & stalk-root=b,3,0.22058099458394878
+class=p & gill-spacing=c & stalk-shape=e,3,0.22008862629246675
+class=e & gill-spacing=c & habitat=d,3,0.21959625800098473
+class=e & habitat=d & odor=n,3,0.21959625800098473
+cap-surface=s & gill-spacing=c & ring-number=o,3,0.21861152141802068
+ring-number=o & spore-print-color=n & stalk-surface-above-ring=s,3,0.21861152141802068
+stalk-color-above-ring=w & stalk-color-below-ring=w & stalk-shape=t,3,0.21861152141802068
+gill-attachment=f & population=v & stalk-color-below-ring=w,3,0.21861152141802068
+population=v & stalk-color-below-ring=w & veil-color=w,3,0.21861152141802068
+habitat=d & odor=n & stalk-surface-above-ring=s,3,0.21861152141802068
+class=p & gill-size=n & spore-print-color=w,3,0.21861152141802068
+gill-spacing=c & population=v & spore-print-color=w,3,0.21861152141802068
+class=p & ring-number=o & spore-print-color=w,3,0.21861152141802068
+stalk-shape=e & stalk-surface-above-ring=s & veil-color=w,3,0.21762678483505662
+gill-attachment=f & stalk-shape=e & stalk-surface-above-ring=s,3,0.21762678483505662
+cap-shape=x & class=e & ring-number=o,3,0.21762678483505662
+gill-size=b & gill-spacing=c & stalk-color-below-ring=w,3,0.21762678483505662
+gill-size=b & gill-spacing=c & stalk-color-above-ring=w,3,0.21762678483505662
+bruises?=t & gill-size=b & stalk-color-above-ring=w,3,0.21762678483505662
+bruises?=t & gill-size=b & stalk-color-below-ring=w,3,0.21762678483505662
+cap-surface=y & gill-spacing=c & population=v,3,0.21762678483505662
+population=v & ring-number=o & stalk-color-above-ring=w,3,0.21762678483505662
+class=p & gill-attachment=f & ring-type=e,3,0.21762678483505662
+class=p & ring-number=o & ring-type=e,3,0.21762678483505662
+bruises?=f & class=p & ring-type=e,3,0.21762678483505662
+class=p & ring-type=e & spore-print-color=w,3,0.21762678483505662
+class=p & spore-print-color=w & stalk-root=b,3,0.21762678483505662
+class=p & gill-size=n & ring-type=e,3,0.21762678483505662
+gill-spacing=c & habitat=d & population=v,3,0.21664204825209257
+bruises?=f & gill-spacing=c & ring-type=e,3,0.21664204825209257
+class=p & gill-spacing=c & ring-type=e,3,0.21664204825209257
+class=p & ring-type=e & stalk-root=b,3,0.21664204825209257
+gill-spacing=c & ring-number=o & spore-print-color=w,3,0.21664204825209257
+gill-size=n & gill-spacing=c & ring-type=e,3,0.21664204825209257
+gill-spacing=c & ring-number=o & ring-type=e,3,0.21664204825209257
+class=p & ring-type=e & veil-color=w,3,0.21664204825209257
+gill-spacing=c & population=v & ring-type=e,3,0.21664204825209257
+class=p & population=v & ring-type=e,3,0.21664204825209257
+class=p & population=v & spore-print-color=w,3,0.21664204825209257
+gill-size=n & gill-spacing=c & spore-print-color=w,3,0.21664204825209257
+bruises?=f & stalk-surface-above-ring=s & veil-color=w,3,0.21565731166912852
+bruises?=f & ring-number=o & stalk-surface-below-ring=s,3,0.21565731166912852
+bruises?=f & gill-attachment=f & stalk-surface-above-ring=s,3,0.21565731166912852
+gill-size=b & population=v & ring-number=o,3,0.21565731166912852
+cap-shape=f & stalk-surface-below-ring=s & veil-color=w,3,0.21541112752338748
+cap-shape=f & gill-attachment=f & stalk-surface-below-ring=s,3,0.21541112752338748
+cap-surface=y & population=v & ring-number=o,3,0.21516494337764647
+stalk-color-above-ring=w & stalk-color-below-ring=w & stalk-shape=e,3,0.21467257508616444
+class=e & ring-number=o & spore-print-color=n,3,0.21467257508616444
+gill-attachment=f & gill-size=b & population=v,3,0.21467257508616444
+gill-size=b & population=v & veil-color=w,3,0.21467257508616444
+cap-surface=s & gill-attachment=f & gill-spacing=c,3,0.21418020679468242
+cap-surface=s & gill-spacing=c & veil-color=w,3,0.21418020679468242
+bruises?=f & cap-shape=f & ring-number=o,3,0.2139340226489414
+bruises?=t & odor=n & ring-number=o,3,0.2136878385032004
+gill-size=b & habitat=d & ring-type=p,3,0.2136878385032004
+habitat=d & odor=n & ring-type=p,3,0.2136878385032004
+class=e & gill-size=b & habitat=d,3,0.2136878385032004
+gill-size=b & habitat=d & odor=n,3,0.2136878385032004
+cap-surface=y & class=p & veil-color=w,3,0.21319547021171836
+gill-attachment=f & spore-print-color=n & stalk-surface-above-ring=s,3,0.21270310192023634
+spore-print-color=n & stalk-surface-above-ring=s & veil-color=w,3,0.21270310192023634
+cap-surface=y & class=p & gill-spacing=c,3,0.21270310192023634
+ring-type=e & stalk-color-below-ring=w & veil-color=w,3,0.21270310192023634
+cap-color=g & gill-size=b & veil-color=w,3,0.21270310192023634
+cap-color=g & gill-attachment=f & gill-size=b,3,0.21270310192023634
+gill-attachment=f & ring-type=e & stalk-color-below-ring=w,3,0.21270310192023634
+bruises?=t & gill-spacing=c & habitat=d,3,0.21270310192023634
+gill-size=b & habitat=d & stalk-shape=t,3,0.21270310192023634
+gill-size=b & habitat=d & stalk-surface-below-ring=s,3,0.21270310192023634
+habitat=d & odor=n & stalk-surface-below-ring=s,3,0.21270310192023634
+gill-spacing=c & odor=n & stalk-shape=t,3,0.21270310192023634
+bruises?=t & gill-size=b & habitat=d,3,0.21270310192023634
+bruises?=t & habitat=d & odor=n,3,0.21270310192023634
+habitat=d & odor=n & stalk-shape=t,3,0.21270310192023634
+bruises?=t & odor=n & stalk-shape=t,3,0.21270310192023634
+class=e & gill-spacing=c & stalk-shape=t,3,0.21270310192023634
+gill-size=b & habitat=d & stalk-surface-above-ring=s,3,0.21270310192023634
+odor=n & stalk-root=b & stalk-shape=t,3,0.21270310192023634
+odor=n & ring-type=p & stalk-shape=t,3,0.21270310192023634
+gill-spacing=c & stalk-color-below-ring=w & stalk-shape=t,3,0.21270310192023634
+gill-spacing=c & stalk-color-above-ring=w & stalk-shape=t,3,0.21270310192023634
+cap-surface=y & stalk-root=b & stalk-shape=t,3,0.21270310192023634
+cap-surface=y & gill-spacing=c & stalk-shape=t,3,0.21270310192023634
+cap-surface=y & gill-attachment=f & stalk-shape=t,3,0.21270310192023634
+cap-surface=y & ring-number=o & stalk-shape=t,3,0.21270310192023634
+cap-surface=y & stalk-shape=t & veil-color=w,3,0.21270310192023634
+cap-surface=y & population=v & stalk-root=b,3,0.21270310192023634
+ring-number=o & stalk-surface-above-ring=k & stalk-surface-below-ring=k,3,0.21270310192023634
+class=p & stalk-surface-above-ring=k & stalk-surface-below-ring=k,3,0.21270310192023634
+gill-spacing=c & stalk-surface-above-ring=k & stalk-surface-below-ring=k,3,0.21270310192023634
+class=p & gill-color=b & spore-print-color=w,3,0.21270310192023634
+gill-attachment=f & gill-color=b & veil-color=w,3,0.21270310192023634
+bruises?=f & class=p & stalk-shape=t,3,0.21270310192023634
+bruises?=f & gill-color=b & stalk-shape=t,3,0.21270310192023634
+population=v & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+gill-attachment=f & gill-color=b & ring-type=e,3,0.21270310192023634
+gill-attachment=f & gill-color=b & stalk-shape=t,3,0.21270310192023634
+gill-color=b & gill-size=n & stalk-shape=t,3,0.21270310192023634
+ring-number=o & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+bruises?=f & gill-spacing=c & stalk-shape=t,3,0.21270310192023634
+spore-print-color=w & stalk-root=b & stalk-shape=t,3,0.21270310192023634
+gill-color=b & population=v & stalk-root=b,3,0.21270310192023634
+gill-color=b & gill-size=n & veil-color=w,3,0.21270310192023634
+gill-color=b & stalk-shape=t & veil-color=w,3,0.21270310192023634
+gill-color=b & ring-number=o & veil-color=w,3,0.21270310192023634
+class=p & gill-attachment=f & gill-color=b,3,0.21270310192023634
+gill-attachment=f & gill-color=b & gill-spacing=c,3,0.21270310192023634
+gill-color=b & stalk-root=b & veil-color=w,3,0.21270310192023634
+gill-color=b & population=v & veil-color=w,3,0.21270310192023634
+gill-color=b & gill-spacing=c & ring-number=o,3,0.21270310192023634
+gill-color=b & spore-print-color=w & stalk-root=b,3,0.21270310192023634
+bruises?=f & gill-color=b & gill-spacing=c,3,0.21270310192023634
+ring-type=e & stalk-root=b & stalk-shape=t,3,0.21270310192023634
+gill-color=b & stalk-root=b & stalk-shape=t,3,0.21270310192023634
+bruises?=f & gill-attachment=f & gill-color=b,3,0.21270310192023634
+bruises?=f & gill-color=b & veil-color=w,3,0.21270310192023634
+gill-attachment=f & gill-color=b & gill-size=n,3,0.21270310192023634
+gill-color=b & gill-size=n & population=v,3,0.21270310192023634
+gill-attachment=f & gill-color=b & population=v,3,0.21270310192023634
+bruises?=f & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+bruises?=f & gill-color=b & population=v,3,0.21270310192023634
+gill-color=b & gill-size=n & ring-number=o,3,0.21270310192023634
+bruises?=f & gill-size=n & stalk-shape=t,3,0.21270310192023634
+gill-attachment=f & gill-color=b & stalk-root=b,3,0.21270310192023634
+ring-type=e & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+bruises?=f & population=v & stalk-shape=t,3,0.21270310192023634
+class=p & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+class=p & ring-type=e & stalk-shape=t,3,0.21270310192023634
+bruises?=f & class=p & gill-color=b,3,0.21270310192023634
+gill-color=b & ring-number=o & ring-type=e,3,0.21270310192023634
+population=v & ring-type=e & stalk-shape=t,3,0.21270310192023634
+gill-color=b & ring-type=e & spore-print-color=w,3,0.21270310192023634
+gill-color=b & ring-type=e & veil-color=w,3,0.21270310192023634
+gill-color=b & gill-spacing=c & stalk-root=b,3,0.21270310192023634
+gill-size=n & gill-spacing=c & stalk-shape=t,3,0.21270310192023634
+gill-color=b & gill-size=n & gill-spacing=c,3,0.21270310192023634
+gill-color=b & ring-number=o & stalk-shape=t,3,0.21270310192023634
+gill-color=b & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+gill-color=b & population=v & ring-type=e,3,0.21270310192023634
+class=p & gill-color=b & stalk-shape=t,3,0.21270310192023634
+bruises?=f & gill-color=b & spore-print-color=w,3,0.21270310192023634
+gill-spacing=c & ring-type=e & stalk-shape=t,3,0.21270310192023634
+class=p & gill-color=b & stalk-root=b,3,0.21270310192023634
+gill-color=b & gill-size=n & ring-type=e,3,0.21270310192023634
+gill-color=b & gill-spacing=c & population=v,3,0.21270310192023634
+class=p & gill-color=b & veil-color=w,3,0.21270310192023634
+gill-attachment=f & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+bruises?=f & gill-color=b & ring-number=o,3,0.21270310192023634
+bruises?=f & gill-color=b & ring-type=e,3,0.21270310192023634
+bruises?=f & gill-color=b & stalk-root=b,3,0.21270310192023634
+class=p & gill-color=b & gill-size=n,3,0.21270310192023634
+gill-color=b & gill-spacing=c & spore-print-color=w,3,0.21270310192023634
+gill-color=b & ring-number=o & spore-print-color=w,3,0.21270310192023634
+gill-attachment=f & gill-color=b & ring-number=o,3,0.21270310192023634
+gill-color=b & gill-size=n & spore-print-color=w,3,0.21270310192023634
+gill-color=b & gill-spacing=c & veil-color=w,3,0.21270310192023634
+gill-color=b & population=v & stalk-shape=t,3,0.21270310192023634
+gill-color=b & gill-spacing=c & stalk-shape=t,3,0.21270310192023634
+gill-color=b & ring-number=o & stalk-root=b,3,0.21270310192023634
+class=p & gill-color=b & population=v,3,0.21270310192023634
+class=p & gill-color=b & gill-spacing=c,3,0.21270310192023634
+gill-spacing=c & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+bruises?=f & stalk-root=b & stalk-shape=t,3,0.21270310192023634
+gill-color=b & ring-type=e & stalk-shape=t,3,0.21270310192023634
+gill-attachment=f & gill-color=b & spore-print-color=w,3,0.21270310192023634
+gill-color=b & gill-spacing=c & ring-type=e,3,0.21270310192023634
+gill-color=b & population=v & spore-print-color=w,3,0.21270310192023634
+gill-color=b & population=v & ring-number=o,3,0.21270310192023634
+gill-size=n & spore-print-color=w & stalk-shape=t,3,0.21270310192023634
+gill-color=b & gill-size=n & stalk-root=b,3,0.21270310192023634
+gill-size=n & ring-type=e & stalk-shape=t,3,0.21270310192023634
+class=p & gill-color=b & ring-type=e,3,0.21270310192023634
+bruises?=f & gill-color=b & gill-size=n,3,0.21270310192023634
+gill-color=b & spore-print-color=w & veil-color=w,3,0.21270310192023634
+spore-print-color=w & stalk-shape=t & veil-color=w,3,0.21270310192023634
+class=p & gill-size=n & stalk-shape=t,3,0.21270310192023634
+gill-color=b & ring-type=e & stalk-root=b,3,0.21270310192023634
+class=p & gill-color=b & ring-number=o,3,0.21270310192023634
+cap-surface=y & class=p & gill-attachment=f,3,0.2119645494830133
+cap-color=n & gill-spacing=c & stalk-root=b,3,0.21171836533727229
+gill-attachment=f & habitat=g & stalk-color-below-ring=w,3,0.21122599704579026
+gill-attachment=f & habitat=g & stalk-color-above-ring=w,3,0.21122599704579026
+habitat=g & stalk-color-below-ring=w & veil-color=w,3,0.21122599704579026
+habitat=g & stalk-color-above-ring=w & veil-color=w,3,0.21122599704579026
+habitat=g & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.21122599704579026
+class=p & stalk-color-above-ring=w & veil-color=w,3,0.21073362875430823
+class=p & gill-attachment=f & stalk-color-above-ring=w,3,0.21073362875430823
+bruises?=f & ring-type=e & stalk-color-above-ring=w,3,0.21073362875430823
+ring-number=o & ring-type=e & stalk-color-above-ring=w,3,0.21073362875430823
+gill-spacing=c & population=y & veil-color=w,3,0.21073362875430823
+gill-attachment=f & population=y & veil-color=w,3,0.21073362875430823
+gill-attachment=f & gill-spacing=c & population=y,3,0.21073362875430823
+cap-shape=x & class=p & veil-color=w,3,0.2102412604628262
+cap-shape=x & ring-type=p & stalk-surface-below-ring=s,3,0.20974889217134415
+bruises?=f & stalk-surface-below-ring=s & veil-color=w,3,0.20974889217134415
+bruises?=f & gill-attachment=f & stalk-surface-below-ring=s,3,0.20974889217134415
+bruises?=f & cap-shape=f & veil-color=w,3,0.20974889217134415
+cap-shape=x & class=p & gill-attachment=f,3,0.20950270802560314
+bruises?=f & cap-shape=f & gill-attachment=f,3,0.20925652387986213
+bruises?=t & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.2087641555883801
+cap-shape=x & class=p & ring-number=o,3,0.2087641555883801
+ring-type=p & stalk-shape=e & stalk-surface-above-ring=s,3,0.2087641555883801
+cap-shape=x & class=e & stalk-surface-above-ring=s,3,0.2087641555883801
+class=e & gill-attachment=f & spore-print-color=n,3,0.2087641555883801
+gill-size=b & habitat=g & ring-number=o,3,0.2087641555883801
+class=e & spore-print-color=n & veil-color=w,3,0.2087641555883801
+cap-surface=y & ring-number=o & stalk-surface-below-ring=s,3,0.2087641555883801
+cap-color=n & ring-number=o & stalk-shape=t,3,0.2087641555883801
+cap-color=n & stalk-shape=t & veil-color=w,3,0.2087641555883801
+cap-color=n & gill-attachment=f & stalk-shape=t,3,0.2087641555883801
+stalk-color-above-ring=w & stalk-color-below-ring=w & stalk-root=b,3,0.2087641555883801
+cap-surface=f & ring-number=o & stalk-root=b,3,0.2087641555883801
+class=p & gill-size=b & gill-spacing=c,3,0.20827178729689808
+class=p & gill-size=b & veil-color=w,3,0.20827178729689808
+gill-spacing=c & stalk-shape=e & stalk-surface-above-ring=s,3,0.20777941900541605
+cap-color=g & gill-attachment=f & ring-number=o,3,0.20777941900541605
+cap-color=g & ring-number=o & veil-color=w,3,0.20777941900541605
+population=v & ring-number=o & stalk-color-below-ring=w,3,0.20777941900541605
+cap-shape=x & population=v & ring-number=o,3,0.20777941900541605
+cap-shape=x & gill-spacing=c & ring-type=p,3,0.20728705071393402
+cap-shape=f & ring-number=o & stalk-surface-below-ring=s,3,0.207040866568193
+gill-attachment=f & spore-print-color=k & stalk-surface-above-ring=s,3,0.206794682422452
+ring-number=o & spore-print-color=k & stalk-surface-above-ring=s,3,0.206794682422452
+spore-print-color=k & stalk-surface-above-ring=s & veil-color=w,3,0.206794682422452
+class=p & gill-attachment=f & stalk-color-below-ring=w,3,0.206794682422452
+class=p & stalk-color-below-ring=w & veil-color=w,3,0.206794682422452
+ring-number=o & spore-print-color=n & stalk-surface-below-ring=s,3,0.206794682422452
+population=y & ring-number=o & veil-color=w,3,0.206794682422452
+gill-spacing=c & population=y & ring-number=o,3,0.206794682422452
+gill-attachment=f & population=y & ring-number=o,3,0.206794682422452
+population=v & stalk-color-above-ring=w & stalk-root=b,3,0.206794682422452
+class=p & gill-attachment=f & gill-size=b,3,0.20605612998522896
+stalk-color-above-ring=w & stalk-shape=e & stalk-surface-above-ring=s,3,0.20580994583948795
+cap-shape=x & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.20580994583948795
+cap-shape=x & population=v & veil-color=w,3,0.20580994583948795
+cap-shape=x & gill-attachment=f & population=v,3,0.20580994583948795
+cap-surface=f & gill-spacing=c & veil-color=w,3,0.20580994583948795
+cap-surface=f & gill-attachment=f & gill-spacing=c,3,0.20580994583948795
+cap-surface=f & gill-spacing=c & ring-number=o,3,0.20580994583948795
+cap-shape=x & stalk-root=b & stalk-surface-above-ring=s,3,0.20580994583948795
+cap-color=n & ring-number=o & stalk-root=b,3,0.20580994583948795
+cap-surface=y & class=p & ring-number=o,3,0.20531757754800592
+cap-shape=f & gill-spacing=c & stalk-surface-above-ring=s,3,0.20531757754800592
+cap-surface=y & gill-size=b & stalk-root=b,3,0.20531757754800592
+ring-type=p & stalk-shape=e & veil-color=w,3,0.2048252092565239
+gill-attachment=f & ring-type=p & stalk-shape=e,3,0.2048252092565239
+gill-spacing=c & population=v & stalk-color-above-ring=w,3,0.2048252092565239
+cap-shape=x & gill-size=b & stalk-surface-above-ring=s,3,0.2038404726735598
+cap-surface=f & gill-size=b & stalk-root=b,3,0.2038404726735598
+class=p & gill-size=b & stalk-root=b,3,0.2038404726735598
+stalk-color-below-ring=w & stalk-shape=e & stalk-surface-above-ring=s,3,0.20285573609059576
+ring-type=p & stalk-color-below-ring=w & stalk-shape=e,3,0.20285573609059576
+ring-type=p & stalk-color-above-ring=w & stalk-shape=e,3,0.20285573609059576
+gill-size=b & ring-number=o & spore-print-color=n,3,0.20285573609059576
+class=e & gill-size=b & spore-print-color=n,3,0.20285573609059576
+class=e & ring-number=o & spore-print-color=k,3,0.20285573609059576
+class=e & gill-attachment=f & spore-print-color=k,3,0.20285573609059576
+class=e & spore-print-color=k & veil-color=w,3,0.20285573609059576
+cap-shape=x & stalk-root=b & stalk-surface-below-ring=s,3,0.20285573609059576
+bruises?=f & cap-surface=y & veil-color=w,3,0.20236336779911374
+class=p & ring-number=o & stalk-color-above-ring=w,3,0.2018709995076317
+gill-attachment=f & gill-size=n & stalk-color-above-ring=w,3,0.2018709995076317
+gill-size=n & ring-number=o & stalk-color-above-ring=w,3,0.2018709995076317
+gill-size=n & stalk-color-above-ring=w & veil-color=w,3,0.2018709995076317
+gill-attachment=f & gill-size=b & population=y,3,0.2018709995076317
+gill-size=b & gill-spacing=c & population=y,3,0.2018709995076317
+gill-size=b & population=y & veil-color=w,3,0.2018709995076317
+stalk-shape=e & stalk-surface-above-ring=s & stalk-surface-below-ring=s,3,0.20137863121614968
+cap-surface=s & stalk-color-above-ring=w & stalk-color-below-ring=w,3,0.20137863121614968
+bruises?=f & cap-surface=y & gill-attachment=f,3,0.20113244707040867
+cap-surface=s & ring-number=o & stalk-color-below-ring=w,3,0.20088626292466766
+cap-surface=s & ring-number=o & stalk-color-above-ring=w,3,0.20088626292466766
+spore-print-color=n & stalk-surface-below-ring=s & veil-color=w,3,0.20088626292466766
+gill-attachment=f & spore-print-color=n & stalk-surface-below-ring=s,3,0.20088626292466766
+ring-type=e & stalk-color-below-ring=w & stalk-shape=t,3,0.20088626292466766
+ring-type=e & stalk-color-above-ring=w & stalk-shape=t,3,0.20088626292466766
+stalk-color-above-ring=w & stalk-shape=t & stalk-surface-below-ring=s,3,0.20088626292466766
+stalk-color-below-ring=w & stalk-shape=t & stalk-surface-below-ring=s,3,0.20088626292466766
+bruises?=f & stalk-color-above-ring=w & stalk-shape=t,3,0.20088626292466766
+ring-number=o & ring-type=e & stalk-color-below-ring=w,3,0.20088626292466766
+stalk-color-above-ring=w & stalk-shape=t & stalk-surface-above-ring=s,3,0.20088626292466766
+gill-size=b & stalk-color-above-ring=w & stalk-shape=t,3,0.20088626292466766
+stalk-color-below-ring=w & stalk-shape=t & stalk-surface-above-ring=s,3,0.20088626292466766
+bruises?=f & stalk-color-below-ring=w & stalk-shape=t,3,0.20088626292466766
+bruises?=f & ring-type=e & stalk-color-below-ring=w,3,0.20088626292466766
+gill-size=b & stalk-color-below-ring=w & stalk-shape=t,3,0.20088626292466766
+gill-spacing=c & population=v & stalk-color-below-ring=w,3,0.20088626292466766
+cap-shape=x & stalk-root=b & stalk-shape=t,3,0.20088626292466766
+cap-shape=f & stalk-root=b & stalk-shape=t,3,0.20088626292466766
+ring-number=o & spore-print-color=h & stalk-root=b,3,0.20088626292466766
+gill-attachment=f & spore-print-color=h & veil-color=w,3,0.20088626292466766
+gill-spacing=c & spore-print-color=h & veil-color=w,3,0.20088626292466766
+gill-attachment=f & gill-spacing=c & spore-print-color=h,3,0.20088626292466766
+spore-print-color=h & stalk-root=b & veil-color=w,3,0.20088626292466766
+gill-spacing=c & spore-print-color=h & stalk-root=b,3,0.20088626292466766
+gill-attachment=f & ring-number=o & spore-print-color=h,3,0.20088626292466766
+gill-spacing=c & ring-number=o & spore-print-color=h,3,0.20088626292466766
+gill-attachment=f & spore-print-color=h & stalk-root=b,3,0.20088626292466766
+ring-number=o & spore-print-color=h & veil-color=w,3,0.20088626292466766

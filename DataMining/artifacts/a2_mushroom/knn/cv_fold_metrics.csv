@@ -1,0 +1,11 @@
+fold,train_instances,test_instances,best_params,seconds,accuracy,precision,recall,f1,roc_auc
+0,7311,813,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",30.27361029999156,1.0,1.0,1.0,1.0,1.0
+1,7311,813,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",29.634134200008702,1.0,1.0,1.0,1.0,1.0
+2,7311,813,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",31.649878199998057,1.0,1.0,1.0,1.0,1.0
+3,7311,813,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",30.559777000002214,1.0,1.0,1.0,1.0,1.0
+4,7312,812,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",30.04206730000442,1.0,1.0,1.0,1.0,1.0
+5,7312,812,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",28.778414900007192,1.0,1.0,1.0,1.0,1.0
+6,7312,812,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",29.667643100008718,1.0,1.0,1.0,1.0,1.0
+7,7312,812,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",28.862489099992672,1.0,1.0,1.0,1.0,1.0
+8,7312,812,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",177.2655955999944,1.0,1.0,1.0,1.0,1.0
+9,7312,812,"{""classifier__n_neighbors"": 1, ""classifier__weights"": ""uniform""}",35.36697899999854,1.0,1.0,1.0,1.0,1.0

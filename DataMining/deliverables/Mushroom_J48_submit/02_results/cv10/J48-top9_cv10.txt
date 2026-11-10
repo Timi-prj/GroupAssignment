@@ -1,0 +1,127 @@
+E:/Weka/Weka-3-8-7/jre/jre-25.0.2-full/bin/java.exe -Xss20m -Dfile.encoding=UTF-8 --add-opens=java.base/java.lang=ALL-UNNAMED --enable-native-access=ALL-UNNAMED -cp E:/Weka/Weka-3-8-7/weka.jar weka.classifiers.meta.FilteredClassifier -F weka.filters.supervised.attribute.AttributeSelection -E weka.attributeSelection.InfoGainAttributeEval -S "weka.attributeSelection.Ranker -N 9" -W weka.classifiers.trees.J48 -c last -x 10 -s 42 -t C:\Users\admin\Desktop\Mushroom_J48_submit\01_data\mushroom_clean.arff
+
+
+Options: -F "weka.filters.supervised.attribute.AttributeSelection -E weka.attributeSelection.InfoGainAttributeEval -S "weka.attributeSelection.Ranker -N 9"" -W weka.classifiers.trees.J48 
+
+=== Classifier model (full training set) ===
+
+FilteredClassifier using weka.classifiers.trees.J48 -C 0.25 -M 2 on data filtered through weka.filters.supervised.attribute.AttributeSelection -E "weka.attributeSelection.InfoGainAttributeEval " -S "weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N 9"
+
+Filtered Header
+@relation 'mushroom-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.RemoveUseless-M99.0-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.InfoGainAttributeEval-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N 9'
+
+@attribute odor {a,c,f,l,m,n,p,s,y}
+@attribute spore-print-color {b,h,k,n,o,r,u,w,y}
+@attribute gill-color {b,e,g,h,k,n,o,p,r,u,w,y}
+@attribute ring-type {c,e,f,l,n,p,s,z}
+@attribute stalk-surface-above-ring {f,k,s,y}
+@attribute stalk-surface-below-ring {f,k,s,y}
+@attribute stalk-color-above-ring {b,c,e,g,n,o,p,w,y}
+@attribute stalk-color-below-ring {b,c,e,g,n,o,p,w,y}
+@attribute gill-size {b,n}
+@attribute class {e,p}
+
+@data
+
+
+Classifier Model
+J48 pruned tree
+------------------
+
+odor = a: e (400.0)
+odor = c: p (192.0)
+odor = f: p (2160.0)
+odor = l: e (400.0)
+odor = m: p (36.0)
+odor = n
+|   spore-print-color = b: e (48.0)
+|   spore-print-color = h: e (48.0)
+|   spore-print-color = k: e (1296.0)
+|   spore-print-color = n: e (1344.0)
+|   spore-print-color = o: e (48.0)
+|   spore-print-color = r: p (72.0)
+|   spore-print-color = u: e (0.0)
+|   spore-print-color = w
+|   |   gill-size = b: e (528.0)
+|   |   gill-size = n
+|   |   |   stalk-surface-below-ring = f: e (24.0)
+|   |   |   stalk-surface-below-ring = k: e (0.0)
+|   |   |   stalk-surface-below-ring = s
+|   |   |   |   ring-type = c: e (0.0)
+|   |   |   |   ring-type = e: e (24.0)
+|   |   |   |   ring-type = f: e (0.0)
+|   |   |   |   ring-type = l: e (0.0)
+|   |   |   |   ring-type = n: e (0.0)
+|   |   |   |   ring-type = p: p (8.0)
+|   |   |   |   ring-type = s: e (0.0)
+|   |   |   |   ring-type = z: e (0.0)
+|   |   |   stalk-surface-below-ring = y: p (40.0)
+|   spore-print-color = y: e (48.0)
+odor = p: p (256.0)
+odor = s: p (576.0)
+odor = y: p (576.0)
+
+Number of Leaves  : 	28
+
+Size of the tree : 	33
+
+
+Time taken to build model: 0.25 seconds
+
+Time taken to test model on training data: 0.03 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        8124              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances             8124     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     e
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     p
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 4208    0 |    a = e
+    0 3916 |    b = p
+
+Time taken to perform cross-validation: 0.26 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        8124              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances             8124     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     e
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     p
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 4208    0 |    a = e
+    0 3916 |    b = p
+
