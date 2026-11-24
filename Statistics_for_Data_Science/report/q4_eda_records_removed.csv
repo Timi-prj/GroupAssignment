@@ -1,0 +1,5 @@
+"step","rule","rows_affected","rows_left"
+0,"Raw file",NA,844
+1,"Non-numeric streams set to missing",1,844
+2,"Duplicate on title + artist + streams removed",1,843
+3,"Missing response excluded",1,842
