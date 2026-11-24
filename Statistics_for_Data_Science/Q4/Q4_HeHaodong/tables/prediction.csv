@@ -1,0 +1,4 @@
+"profile","playlists","charted","fit_log10","pi_low_log10","pi_high_log10","fit_millions","pi_low_millions","pi_high_millions"
+"Low exposure: 300 playlists, not charted",300,"No",7.824,7.22,8.427,66.634,16.604,267.416
+"Reference: 5,000 playlists, charted",5000,"Yes",8.801,8.199,9.404,633.016,158.048,2535.372
+"High exposure: 20,000 playlists, charted",20000,"Yes",9.205,8.601,9.808,1602.778,399.285,6433.744

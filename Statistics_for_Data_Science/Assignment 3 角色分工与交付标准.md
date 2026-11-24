@@ -1,0 +1,190 @@
+# Assignment 3 角色分工与交付标准
+
+## 一、角色交付表（人类必看）
+
+| **认领人** | **角色**     | **明确交付物**               | **简洁交付标准**                                                         |
+| ------- | ---------- | ----------------------- | ------------------------------------------------------------------ |
+| 公汀露     | Q1 负责人     | Q1 正文、R 代码、图表           | ① 完整回答 (a)–(c)；② 有描述统计、规范图形和完整检验结果；③ 给出推荐并说明总体检验的局限                |
+| 贝学成     | Q2 负责人     | Q2 正文、R 代码、ANOVA 表及诊断图  | ① 完整回答 (a)–(c)；② 检查假设并提供完整 ANOVA 表；③ 不误读显著结果，说明事后比较的必要性            |
+| 何铭恩     | Q3 负责人     | A–G 七项研究正文及 R 代码        | ① 每项均含设计、检验理由、假设、结果和结论；② 完成各研究的专项解释；③ 七项结果均可复现、无漏题                 |
+| 贺浩东     | Q4 EDA 负责人 | 清理说明、至少 5 幅图、研究问题、变量角色表 | ① 图表与统计量支持主要发现；② 研究问题及变量选择合理；③ 变量类型、角色和清理规则完整                      |
+| 顾瑞琪     | Q4 建模负责人   | GLM 正文、模型代码、诊断及预测结果     | ① 完成变量筛选、共线性检查和模型比较；② 解释至少两个系数并提供其 95% 置信区间；③ 完成诊断、预测及 200–300 词结论 |
+| 胡率帅     | 报告整合负责人    | 最终 PDF、合并后的 `.R` 脚本     | ① 内容、分工、格式和引用符合要求；② 脚本可在干净 R 会话完整运行且结果与 PDF 一致；③ 无漏题、缺图或未替换的示例信息   |
+
+## 二、通用提交要求
+
+### 原文要求
+
+> 1. Submit one PDF report and one reproducible .R script per group.
+> 2. At the beginning of the PDF report, before your answers, include a Division of Work section listing every group member's name, student ID, and a brief contribution statement. Follow the format shown below. No separate contribution file is required.
+> 3. Organise the report by question. Include relevant tables, labelled plots, and interpretations in your own words. Do not submit an unedited collection of console outputs or screenshots.
+> 4. Unless otherwise stated, use α = 0.05 and 95% confidence intervals.
+> 5. R may be used for all numerical work. No manual calculation of test statistics is required. Report results to three decimal places where appropriate. Report p \< 0.001, not p = 0.000.
+> 6. Explain how missing values, invalid entries, and exclusions are handled. Do not fabricate observations or replace invalid entries with guessed values.
+> 7. Acknowledge external sources, borrowed code, and any permitted AI assistance according to the course policy.
+
+### 中文总结
+
+全组最终只交一份 PDF 和一份可复现 R 脚本。报告按题目组织，首页先列全体成员分工；结果适当保留三位小数，默认采用 $\alpha=0.05$ 和 95% 置信区间。所有负责人均需说明数据处理，提供有标签的图表和自己的解释，不得直接堆砌控制台输出或截图，并保留外部来源、借用代码及 AI 辅助记录。
+
+## 三、各角色交付细则（可AI读）
+
+### 角色 1：Q1 广告检验负责人
+
+#### 原文要求
+
+> (a) Identify the response scale, the number of groups, and whether observations are independent or paired. Select an appropriate test, explain your choice, and state the hypotheses. \[4 points]
+>
+> (b) Use R to summarise and plot the data, then carry out the selected test. Report the test statistic, degrees of freedom where applicable, p-value, and contextual conclusion. \[4 points]
+>
+> (c) Recommend an advertisement using the descriptive and inferential results. Explain what the overall test can and cannot establish about individual advertisements. No post-hoc tests are required. \[2 points]
+
+#### 中文总结与交付细则
+
+* **正文**：判断反应尺度、组数和独立性，选择并论证检验，写出假设；报告统计量、自由度（如适用）、p 值及情境化结论。
+* **图表与代码**：提供描述统计、至少一幅组间比较图及完整可复现代码。
+* **结论**：结合描述与推断结果推荐广告，说明总体检验不能确定具体广告之间的差异，不做事后检验。
+
+### 角色 2：Q2 雏鸡饲料 ANOVA 负责人
+
+#### 原文要求
+
+> (a) Define the population parameters and state the null and alternative hypotheses.
+>
+> State the three main ANOVA assumptions and explain briefly how each can be assessed using the study description and the data. Use appropriate diagnostic evidence (words or graphs) to comment on the assumptions.
+>
+> (b) Provide a labelled plot of weight by feed type. Fit a one-way ANOVA in R and create an ANOVA table showing source, degrees of freedom, sum of squares, mean square, F-statistic, and p-value. Report the statistical decision and answer the research question.
+>
+> (c) Explain why this claim is not justified. Write a defensible conclusion from your analysis and explain what additional analysis would be needed to identify particular pairs that differ.
+>
+> You are not required to conduct post-hoc tests.
+
+题目中需要反驳的说法：
+
+> “A significant ANOVA means that every feed type differs significantly from every other feed type. The feed with the highest sample mean is therefore significantly better than all the others.”
+
+#### 中文总结与交付细则
+
+* **假设与诊断**：定义总体均值及原、备择假设，讨论独立性、正态性和方差齐性，并提供诊断依据。
+* **结果**：提供体重—饲料图和完整 ANOVA 表，报告统计决策并回答研究问题。
+* **解释**：指出显著 ANOVA 不代表所有组两两显著不同，也不能证明样本均值最高者显著最优；说明需要事后多重比较，但不实际执行。
+
+### 角色 3：Q3 七项统计研究负责人
+
+#### 原文要求
+
+七项研究共同要求：
+
+> 1. Identify the design. Describe the response scale or variable types, the number of groups or conditions, or whether observations are independent or paired where applicable.
+> 2. Choose and justify a test. Select a method taught in the course. State the hypotheses.
+> 3. Analyse and interpret. Work on the test in R, and report the statistic where applicable, degrees of freedom where applicable, p-value, decision, and contextual conclusion.
+>
+> These are separate research questions. No adjustment across the seven studies is required.
+
+各研究问题：
+
+> **Study A:** Do players in the two leagues have different population mean log salaries?
+>
+> **Study B:** Across the colleges represented, is the population mean difference between log out-of-state tuition and log room-and-board costs equal to zero?
+>
+> **Study C:** Among colleges where the two costs differ, is the probability that out-of-state tuition exceeds room-and-board costs equal to one half? Use a test without assuming normality or symmetry of their distribution. Compare the meaning of this result with the result from Study B.
+>
+> **Study D:** Is there evidence that the distributions of mpg differ between American and Japanese cars?
+>
+> **Study E:** Are the observed public and private college frequencies consistent with a model assigning probability 0.5 to each category? The equal-probability model is a hypothesis to test, not an established fact about US colleges.
+>
+> **Study F:** Is private-college status associated with having a high share of incoming students from the top 10% of their high-school class? Explain how this research question differs from Study E and why an association would not demonstrate a causal effect of private-college status.
+>
+> **Study G:** Is the population variance of mpg the same for American, European, and Japanese cars? Use a method taught in the course that compares variability across more than two groups without requiring normality.
+
+R 说明：
+
+> Levene's test is available through car::leveneTest(). State whether the test is centred on group means or group medians.
+
+#### 中文总结与交付细则
+
+* **共同结构**：A–G 每项均写清研究设计、变量类型、独立性或配对性、检验选择与理由、假设、统计量、自由度（如适用）、p 值、决策和情境结论。
+* **专项解释**：B/C 比较结果含义；F 说明与 E 的区别及关联不代表因果；G 使用非正态要求的多组方差比较，并注明 Levene 检验的中心。
+* **代码**：按题目规则筛选和变换数据，完整复现七项分析；七项研究之间无需多重性校正。
+
+### 角色 4：Q4 EDA 与研究问题负责人
+
+#### 原文要求
+
+> 1. Load the data into R, review the variables using the Data Dictionary below, and develop a research question through exploratory data analysis.
+>
+> (a) Explore the distributions of relevant variables and their relationships using EDA techniques introduced in this course. Include at least five informative plots, relevant summary statistics, and a brief discussion of your main findings.
+>
+> (b) Based on your EDA, propose one clear research question that can be addressed using a GLM. Identify your response variable and candidate predictors, and explain the question's relevance to the QQ Music team.
+>
+> Your response may be an original variable, a justified transformation, or a derived binary outcome. Justify any transformation or threshold used.
+>
+> 1. For each variable considered in your research question, identify its:
+>
+> (a) data type or measurement scale (e.g., nominal, ordinal, interval, or ratio);
+>
+> (b) role as an independent or dependent variable;
+>
+> (c) role as a predictor or response variable.
+>
+> Assign analytical roles in relation to your research question. An identifier may be neither a predictor nor a response.
+
+#### 中文总结与交付细则
+
+* **EDA**：说明数据清理规则，提供至少五幅有信息量的图、相关汇总统计及主要发现。
+* **研究问题**：提出一个可由 GLM 回答且对 QQ Music 有意义的问题，明确响应变量和候选预测变量；变换或阈值必须有依据。
+* **变量表与交接**：列明变量测量尺度、自变量/因变量及预测变量/响应变量角色，并向建模负责人统一数据版本、清理规则和研究问题。
+
+### 角色 5：Q4 GLM 建模与评价负责人
+
+#### 原文要求
+
+> Use glm() with an appropriate family and link function. A Gaussian linear model fitted using lm() is also acceptable.
+>
+> (a) Justify the inclusion or exclusion of each candidate predictor using the research context and your EDA findings.
+>
+> (b) Examine correlations among numerical predictors, excluding the response variable. Assess potential multicollinearity using appropriate diagnostics and explain how your findings inform the modelling decisions.
+>
+> (c) Develop and compare candidate models using appropriate techniques. Justify your choice of response scale, family, link function, and final model.
+>
+> Report the final model formulas and interpret two coefficients in context and provide a 95% confidence interval for at least two coefficient.
+>
+> (d) Evaluate your final model using diagnostic plots, statistics, and any additional checks appropriate to the chosen model.
+>
+> Define a plausible response within the observed predictor ranges. Report its predicted outcome and an appropriate 95% uncertainty interval, explaining what the prediction and interval represent.
+>
+> (e) Write approximately 200-300 words answering your research question. Justify your preferred model, summarise the main findings, and discuss the limitations of your analysis. Avoid interpreting associations as causal effects.
+
+#### 中文总结与交付细则
+
+* **建模**：逐一说明候选变量纳入或排除的理由，检查预测变量相关性和多重共线性，比较候选模型并确定响应尺度、分布族、链接函数及最终公式。
+* **解释与诊断**：解释至少两个系数并提供其 95% 置信区间，使用适合模型类型的图和统计量完成诊断。
+* **预测与结论**：在观测范围内构造合理案例，报告预测及 95% 不确定区间并解释含义；完成约 200–300 词结论，讨论模型依据、发现和局限，避免因果化表述。
+
+### 角色 6：报告整合负责人
+
+#### 原文要求
+
+> Submit one PDF report and one reproducible .R script per group.
+>
+> At the beginning of the PDF report, before your answers, include a Division of Work section listing every group member's name, student ID, and a brief contribution statement. Follow the format shown below. No separate contribution file is required.
+>
+> Organise the report by question. Include relevant tables, labelled plots, and interpretations in your own words. Do not submit an unedited collection of console outputs or screenshots.
+>
+> Every group member must be listed. Members not listed will be treated as not having contributed.
+>
+> Acknowledge external sources, borrowed code, and any permitted AI assistance according to the course policy.
+
+分工格式示例：
+
+> Alice Chen --- 12345678 --- Data preparation and variable classification
+> Bob Li --- 12345679 --- Question 1 and Question 2
+> Carol Wang --- 12345680 --- Predictor reasoning
+> David Zhao --- 12345681 --- Model selection and interpretation
+> Eve Sun --- 12345682 --- Question 3
+
+#### 中文总结与交付细则
+
+* **整合报告**：按 Q1–Q4 编排全部答案，在首页列明六人的真实姓名、学号和贡献，统一图表、数字、p 值及引用格式。
+* **整合代码**：合并为一份无个人路径依赖、包依赖明确的 `.R` 脚本，并在干净 R 会话中从头运行，核对输出与 PDF 一致。
+* **最终检查**：确保无漏题、缺图、未替换示例或控制台截图堆砌，包含必要的数据处理和外部来源说明，最终只提交一份 PDF 和一份 R 脚本。
